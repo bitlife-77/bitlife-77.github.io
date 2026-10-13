@@ -336,7 +336,7 @@ function buildHomeSeoBlock() {
 
 // ──── Render Home ──────────────────────────────────────────
 function renderHome() {
-  document.title = 'BitLife 77 | Play 440+ Free Unblocked Games Online';
+  document.title = 'Play 440+ Free Unblocked Games Online | BitLife';
 
   const app = $('app');
   app.innerHTML = `

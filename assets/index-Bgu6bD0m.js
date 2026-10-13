@@ -328,7 +328,7 @@
         </details>
       </div>
     </div>
-  </section>`}function T(){document.title=`BitLife 77 | Play 440+ Free Unblocked Games Online`;let e=m(`app`);e.innerHTML=`
+  </section>`}function T(){document.title=`Play 440+ Free Unblocked Games Online | BitLife`;let e=m(`app`);e.innerHTML=`
     ${y()}
     <div class="layout">
       ${v()}
