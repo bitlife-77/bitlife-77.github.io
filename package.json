@@ -1,0 +1,20 @@
+{
+  "name": "unblockgame",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate:games": "node generate-game-pages-github.mjs",
+    "generate:sitemap": "node generate-sitemap-github.mjs",
+    "predev": "node restore-source-index.mjs",
+    "dev": "vite",
+    "prebuild": "node restore-source-index.mjs && node generate-game-pages-github.mjs && node generate-sitemap-github.mjs",
+    "build": "vite build",
+    "postbuild": "node sync-root-from-dist.mjs",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.5",
+    "vite": "^8.0.4"
+  }
+}

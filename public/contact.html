@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Us - BitLife 77</title>
+  <meta name="description" content="Read Contact Us on BitLife 77 (https://bitlife-77.github.io/). Play 440+ free unblocked HTML5 browser games.">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="BitLife 77">
+  <link rel="canonical" href="https://bitlife-77.github.io/contact.html">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://bitlife-77.github.io/contact.html">
+  <meta property="og:title" content="Contact Us - BitLife 77">
+  <meta property="og:description" content="Read Contact Us on BitLife 77 (https://bitlife-77.github.io/). Play 440+ free unblocked HTML5 browser games.">
+  <meta property="og:site_name" content="BitLife 77">
+  <meta name="theme-color" content="#7c3aed">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎮</text></svg>">
+  <style>
+    :root {
+      --bg:#08051a; --bg2:#0d0a26; --bg3:#12103a; --surface:rgba(255,255,255,0.04); --surface2:rgba(255,255,255,0.08);
+      --border:rgba(255,255,255,0.08); --border2:rgba(139,92,246,0.25); --purple:#8b5cf6; --purple2:#7c3aed; --purple3:#6d28d9;
+      --cyan:#06b6d4; --text:#f1f0f9; --text2:#a89dc9; --text3:#6b6490; --radius:12px; --radius-lg:18px; --radius-xl:24px;
+      --shadow:0 8px 32px rgba(0,0,0,0.4);
+      --font:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;
+    }
+    * { box-sizing:border-box; margin:0; padding:0; }
+    body { font-family:var(--font); background:var(--bg); color:var(--text); line-height:1.6; }
+    a { color:inherit; text-decoration:none; }
+    .top-header {
+      position:fixed; top:0; left:0; right:0; height:56px; background:rgba(8,5,26,0.95);
+      backdrop-filter:blur(12px); border-bottom:1px solid var(--border); display:flex; align-items:center;
+      justify-content:space-between; padding:0 20px; z-index:100;
+    }
+    .header-logo-wrap { display:flex; align-items:center; gap:12px; }
+    .header-logo { font-size:1.25rem; font-weight:800; color:#fff; display:flex; align-items:center; gap:3px; }
+    .header-logo .gplus { color:var(--purple); }
+    .header-links { display:flex; align-items:center; gap:16px; }
+    .header-links a { color:var(--text2); font-size:0.875rem; font-weight:500; transition:color 0.2s; }
+    .header-links a:hover { color:#fff; }
+    .layout { display:flex; min-height:100vh; }
+    .sidebar {
+      width:220px; position:fixed; top:56px; bottom:0; left:0; background:rgba(8,5,26,0.98);
+      border-right:1px solid var(--border); overflow-y:auto; padding:12px 8px; z-index:90;
+    }
+    .sidebar-section-label { font-size:0.7rem; font-weight:700; text-transform:uppercase; letter-spacing:1px; color:var(--text3); padding:8px 12px 4px; }
+    .cat-item { display:flex; align-items:center; gap:10px; padding:8px 12px; border-radius:8px; color:var(--text2); font-size:0.875rem; font-weight:500; transition:all 0.15s ease; }
+    .cat-item:hover { background:var(--surface2); color:var(--text); transform:translateX(3px); }
+    .cat-item.active { background:linear-gradient(135deg, rgba(139,92,246,0.25), rgba(124,58,237,0.15)); border:1px solid var(--border2); color:#fff; }
+    .cat-icon { font-size:1.1rem; width:22px; text-align:center; }
+    .cat-count { margin-left:auto; font-size:0.72rem; color:var(--text3); background:var(--surface); padding:2px 6px; border-radius:999px; }
+    .sidebar-overlay { display:none; position:fixed; inset:0; background:rgba(0,0,0,0.5); z-index:150; backdrop-filter:blur(2px); }
+    .sidebar-overlay.open { display:block; }
+    .main-content { margin-left:220px; margin-top:56px; padding:24px 20px 48px; flex:1; min-width:0; }
+    .shell { max-width:960px; margin:0 auto; }
+    .btn-menu {
+      display:none; align-items:center; justify-content:center; width:36px; height:36px; background:var(--surface2); border:1px solid var(--border);
+      border-radius:8px; color:var(--text); font-size:18px; flex-shrink:0; cursor:pointer;
+    }
+    .static-card {
+      background:var(--bg2); border:1px solid var(--border); border-radius:var(--radius-xl); padding:36px;
+      box-shadow:var(--shadow); margin-bottom:32px;
+    }
+    .static-card h2 { color:var(--cyan); margin-top:0; margin-bottom:20px; font-size:1.8rem; }
+    .static-card h3 { color:var(--purple); margin-top:24px; margin-bottom:12px; font-size:1.2rem; }
+    .static-card p { color:var(--text2); line-height:1.75; margin-bottom:16px; font-size:0.95rem; }
+    .static-card ul, .static-card ol { color:var(--text2); line-height:1.75; padding-left:24px; margin-bottom:20px; font-size:0.95rem; }
+    .static-card li { margin-bottom:10px; }
+    .static-card a { color:#c4b5fd; text-decoration:underline; text-underline-offset:3px; }
+    .static-card a:hover { color:#fff; }
+    .static-card code { background:var(--surface2); padding:2px 6px; border-radius:4px; color:var(--cyan); font-size:0.9em; }
+    .site-footer {
+      border-top:1px solid var(--border); padding:32px 0; margin-top:40px; color:var(--text3);
+      font-size:0.875rem; text-align:center;
+    }
+    .footer-links { display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-bottom:12px; }
+    .footer-links a { color:var(--text2); transition:color 0.2s; }
+    .footer-links a:hover { color:var(--purple); }
+    @media (max-width:768px) {
+      .btn-menu { display:flex; }
+      .sidebar { transform:translateX(-100%); transition:transform 0.3s ease; }
+      .sidebar.open { transform:translateX(0); }
+      .main-content { margin-left:0; padding:16px 14px 36px; }
+      .static-card { padding:22px 18px; }
+      .header-links { display:none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+  <header class="top-header">
+    <div class="header-logo-wrap">
+      <button class="btn-menu" id="btn-menu" type="button" aria-label="Open categories">☰</button>
+      <a href="/" class="header-logo">BitLife<span class="gplus"> 77</span></a>
+    </div>
+    <nav class="header-links">
+      <a href="/">Home</a>
+      <a href="/all-games.html">All Games</a>
+    </nav>
+  </header>
+
+  <div class="layout">
+    
+    <aside class="sidebar" id="sidebar" role="navigation" aria-label="Game categories">
+      <div class="sidebar-section-label">Categories</div>
+      
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">🎮</span>
+        <span>All Games</span>
+        <span class="cat-count">440</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">⭐</span>
+        <span>Popular</span>
+        <span class="cat-count">116</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">⚔️</span>
+        <span>Action</span>
+        <span class="cat-count">129</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">🎯</span>
+        <span>Skill</span>
+        <span class="cat-count">122</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">🏃</span>
+        <span>Running</span>
+        <span class="cat-count">37</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">🗺️</span>
+        <span>Adventure</span>
+        <span class="cat-count">119</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">🟪</span>
+        <span>Platform</span>
+        <span class="cat-count">40</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">🚗</span>
+        <span>Car</span>
+        <span class="cat-count">25</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">🏁</span>
+        <span>Racing</span>
+        <span class="cat-count">39</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">🏍️</span>
+        <span>Moto</span>
+        <span class="cat-count">10</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">🧊</span>
+        <span>3D</span>
+        <span class="cat-count">19</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">🔫</span>
+        <span>Shooting</span>
+        <span class="cat-count">34</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">🌍</span>
+        <span>Multiplayer</span>
+        <span class="cat-count">3</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">👥</span>
+        <span>2 Player</span>
+        <span class="cat-count">11</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">⚽</span>
+        <span>Sports</span>
+        <span class="cat-count">29</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">🧩</span>
+        <span>Puzzle</span>
+        <span class="cat-count">104</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">🐾</span>
+        <span>Animal</span>
+        <span class="cat-count">16</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">🕴️</span>
+        <span>Stickman</span>
+        <span class="cat-count">17</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">🕹️</span>
+        <span>Simulation</span>
+        <span class="cat-count">69</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">📈</span>
+        <span>Management</span>
+        <span class="cat-count">22</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">🔥</span>
+        <span>Survival</span>
+        <span class="cat-count">3</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">♟️</span>
+        <span>Strategy</span>
+        <span class="cat-count">69</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">🎲</span>
+        <span>Board</span>
+        <span class="cat-count">3</span>
+      </a>
+      <a class="cat-item " href="/all-games.html">
+        <span class="cat-icon">✨</span>
+        <span>Girls</span>
+        <span class="cat-count">14</span>
+      </a>
+    </aside>
+    <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <main class="main-content">
+      <div class="shell">
+        <div class="static-card">
+          
+      <h2>Contact BitLife 77</h2>
+      <p>Have a question, feedback, bug report, or a game request? The <strong>BitLife 77</strong> team is here to assist you.</p>
+
+      <h3>How to Reach Us</h3>
+      <ul>
+        <li><strong>Official Email:</strong> <a href="mailto:admin@bitlife-77.github.io">admin@bitlife-77.github.io</a></li>
+        <li><strong>Website:</strong> <a href="https://bitlife-77.github.io/">https://bitlife-77.github.io/</a></li>
+        <li><strong>Response Time:</strong> We review all incoming messages and aim to reply within 24 to 48 business hours.</li>
+      </ul>
+
+      <h3>What We Can Help With</h3>
+      <ul>
+        <li><strong>Game Requests:</strong> Want to see a new HTML5 game unblocked on BitLife 77? Send us the title and developer details.</li>
+        <li><strong>Technical &amp; Bug Reports:</strong> If you encounter a broken iframe, game loading failure, or visual glitch, please provide the game URL and device details so our developers can fix it.</li>
+        <li><strong>Copyright &amp; DMCA Inquiries:</strong> If you are a copyright holder with questions regarding indexed games, please refer to our dedicated DMCA section or reach out directly to our admin team.</li>
+        <li><strong>General Feedback:</strong> We love hearing ideas from our community on how to make BitLife 77 even better.</li>
+      </ul>
+    
+        </div>
+        <footer class="site-footer">
+          <div class="footer-links">
+            <a href="/">Home</a>
+            <a href="/?page=about">About Us</a>
+            <a href="/?page=contact">Contact</a>
+            <a href="/?page=dmca">DMCA</a>
+            <a href="/?page=tos">Terms of Service</a>
+            <a href="/?page=privacy">Privacy Policy</a>
+            <a href="/all-games.html">All Games</a>
+          </div>
+          <div>&copy; 2026 BitLife 77. All rights reserved.</div>
+        </footer>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    (function () {
+      var menu = document.getElementById('btn-menu');
+      var sidebar = document.getElementById('sidebar');
+      var overlay = document.getElementById('sidebar-overlay');
+      if (menu && sidebar && overlay) {
+        menu.addEventListener('click', function () {
+          sidebar.classList.toggle('open');
+          overlay.classList.toggle('open');
+        });
+        overlay.addEventListener('click', function () {
+          sidebar.classList.remove('open');
+          overlay.classList.remove('open');
+        });
+      }
+    })();
+  </script>
+</body>
+</html>
