@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Standard Physics Formulas | EduJojo</title>
+    <meta name="description" content="Reference sheet for standard physics formulas including mechanics, electromagnetism, and thermodynamics.">
+    <link rel="stylesheet" href="style.css">
+    
+    <script src="https://pixijs.download/release/pixi.min.js"></script>
+    
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+    <script>
+    window.aiptag = window.aiptag || {cmd: []};
+    aiptag.cmd.display = aiptag.cmd.display || [];
+    aiptag.cmd.player = aiptag.cmd.player || [];
+    </script>
+    <script async src="//api.adinplay.com/libs/aiptag/pub/AGV/among-us.wtf/tag.min.js"></script>
+
+    <style>
+        .content-card {
+            background: rgba(30, 41, 59, 0.8);
+            border: 1px solid rgba(56, 189, 248, 0.2);
+            border-radius: 12px;
+            padding: 25px;
+            margin-bottom: 25px;
+            backdrop-filter: blur(5px);
+        }
+        .content-card h2 { color: var(--accent); margin-top: 0; border-bottom: 1px solid #334155; padding-bottom: 10px; }
+        .content-card h3 { color: #e2e8f0; margin-top: 20px; border-left: 2px solid var(--accent); padding-left: 10px; }
+        .formula-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        .formula-box {
+            background: rgba(15, 23, 42, 0.6);
+            padding: 10px 15px;
+            border-radius: 8px;
+            border: 1px solid #334155;
+            flex: 1;
+            min-width: 250px;
+            font-size: 1.1rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .desc { font-size: 0.9rem; color: #94a3b8; margin-top: 5px; }
+    </style>
+</head>
+<body>
+    <div id="pixi-background"></div>
+
+    <header>
+        <div class="logo"><a href="index.html">EduJojo.world</a> <span>Physics & Chemistry Lab</span></div>
+        <nav>
+            <a href="/">HOME</a>
+            <a href="theorems.html">Theorems</a>
+            <a href="formulas.html" style="color:var(--accent);">Formulas</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <div class="container main-layout">
+        <main>
+            <div class="ad-container ad-970">
+                <div id='among-us-wtf_970x250'>
+                    <script type='text/javascript'>
+                        aiptag.cmd.display.push(function() { aipDisplayTag.display('among-us-wtf_970x250'); });
+                    </script>
+                </div>
+            </div>
+
+            <section class="intro-text">
+                <h1>Physics Formula Sheet</h1>
+                <p>Standardized equations for AP Physics and undergraduate engineering courses. Categorized by sub-field for ease of access during problem-solving sessions.</p>
+            </section>
+
+            <div class="content-card">
+                <h2>1. Mechanics & Kinematics</h2>
+                
+                <h3>Linear Motion</h3>
+                <div class="formula-row">
+                    <div class="formula-box">$$ v = v_0 + at $$</div>
+                    <div class="formula-box">$$ x = x_0 + v_0t + \frac{1}{2}at^2 $$</div>
+                    <div class="formula-box">$$ v^2 = v_0^2 + 2a\Delta x $$</div>
+                </div>
+
+                <h3>Dynamics & Forces</h3>
+                <div class="formula-row">
+                    <div class="formula-box">$$ \Sigma F = ma $$</div>
+                    <div class="formula-box">$$ F_f \leq \mu N $$</div>
+                    <div class="formula-box">$$ F_g = G\frac{m_1m_2}{r^2} $$</div>
+                </div>
+
+                <h3>Work, Energy, Power</h3>
+                <div class="formula-row">
+                    <div class="formula-box">$$ K = \frac{1}{2}mv^2 $$</div>
+                    <div class="formula-box">$$ U_g = mgh $$</div>
+                    <div class="formula-box">$$ W = \int F \cdot dr $$</div>
+                    <div class="formula-box">$$ P = \frac{dW}{dt} = F \cdot v $$</div>
+                </div>
+            </div>
+
+            <div class="content-card">
+                <h2>2. Electromagnetism</h2>
+                
+                <h3>Electrostatics</h3>
+                <div class="formula-row">
+                    <div class="formula-box">$$ F_E = k\frac{q_1q_2}{r^2} $$</div>
+                    <div class="formula-box">$$ E = \frac{F_E}{q} $$</div>
+                    <div class="formula-box">$$ V = \frac{kq}{r} $$</div>
+                </div>
+
+                <h3>Circuits</h3>
+                <div class="formula-row">
+                    <div class="formula-box">$$ V = IR \quad (Ohm's Law) $$</div>
+                    <div class="formula-box">$$ P = IV = I^2R $$</div>
+                    <div class="formula-box">$$ C = \frac{Q}{V} $$</div>
+                </div>
+            </div>
+
+            <div class="content-card">
+                <h2>3. Thermodynamics</h2>
+                <div class="formula-row">
+                    <div class="formula-box">$$ Q = mc\Delta T $$</div>
+                    <div class="formula-box">$$ \Delta U = Q - W $$</div>
+                    <div class="formula-box">$$ PV = nRT $$</div>
+                    <div class="formula-box">$$ e = \frac{W}{Q_H} = 1 - \frac{Q_C}{Q_H} $$</div>
+                </div>
+            </div>
+            
+             <div class="content-card">
+                <h2>4. Optics & Waves</h2>
+                <div class="formula-row">
+                    <div class="formula-box">$$ v = f\lambda $$</div>
+                    <div class="formula-box">$$ T = \frac{1}{f} $$</div>
+                    <div class="formula-box">$$ n_1\sin\theta_1 = n_2\sin\theta_2 $$</div>
+                    <div class="formula-box">$$ \frac{1}{f} = \frac{1}{d_o} + \frac{1}{d_i} $$</div>
+                </div>
+            </div>
+
+        </main>
+
+        <aside>
+            <div class="ad-container" style="width:300px; height:600px;">
+                <div id='among-us-wtf_300x600'>
+                    <script type='text/javascript'>
+                        aiptag.cmd.display.push(function() { aipDisplayTag.display('among-us-wtf_300x600'); });
+                    </script>
+                </div>
+            </div>
+        </aside>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 EduJojo Academic Foundation. Indexed for Educational Use.</p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const container = document.getElementById('pixi-background');
+            if (!container) return;
+            const app = new PIXI.Application({ backgroundAlpha: 0, resizeTo: window, antialias: true });
+            container.appendChild(app.view);
+            const count = 35; const particles = [];
+            
+            for (let i = 0; i < count; i++) {
+                const p = new PIXI.Graphics();
+                p.beginFill(0x38bdf8, 0.4); p.drawCircle(0, 0, Math.random()*2+1); p.endFill();
+                p.x = Math.random() * app.screen.width; p.y = Math.random() * app.screen.height;
+                p.vx = (Math.random()-0.5)*0.2; p.vy = (Math.random()-0.5)*0.2;
+                app.stage.addChild(p); particles.push(p);
+            }
+            
+            const lines = new PIXI.Graphics(); app.stage.addChild(lines);
+            app.ticker.add(() => {
+                lines.clear();
+                particles.forEach((p, i) => {
+                    p.x += p.vx; p.y += p.vy;
+                    if(p.x<0||p.x>app.screen.width) p.vx*=-1; if(p.y<0||p.y>app.screen.height) p.vy*=-1;
+                    for (let j=i+1; j<particles.length; j++) {
+                        const p2=particles[j];
+                        const dx=p.x-p2.x; const dy=p.y-p2.y; const dist=Math.sqrt(dx*dx+dy*dy);
+                        if(dist<130) {
+                            lines.lineStyle(1, 0x38bdf8, (1-dist/130)*0.15);
+                            lines.moveTo(p.x, p.y); lines.lineTo(p2.x, p2.y);
+                        }
+                    }
+                });
+            });
+        });
+    </script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-MQRWJETVEB"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-MQRWJETVEB');
+    </script>
+</body>
+</html>

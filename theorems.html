@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academic Theorems & Formulas | EduJojo</title>
+    <meta name="description" content="Comprehensive repository of physics theorems, chemical formulas, and mathematical proofs for advanced study.">
+    <link rel="stylesheet" href="style.css">
+    
+    <script src="https://pixijs.download/release/pixi.min.js"></script>
+    
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+    <script>
+    window.aiptag = window.aiptag || {cmd: []};
+    aiptag.cmd.display = aiptag.cmd.display || [];
+    aiptag.cmd.player = aiptag.cmd.player || [];
+    </script>
+    <script async src="//api.adinplay.com/libs/aiptag/pub/AGV/among-us.wtf/tag.min.js"></script>
+
+    <style>
+        /* Bu sayfaya özel stil ayarları */
+        .content-card {
+            background: rgba(30, 41, 59, 0.8);
+            border: 1px solid rgba(56, 189, 248, 0.2);
+            border-radius: 12px;
+            padding: 25px;
+            margin-bottom: 25px;
+            backdrop-filter: blur(5px);
+        }
+        .content-card h2 { color: var(--accent); margin-top: 0; border-bottom: 1px solid #334155; padding-bottom: 10px; }
+        .content-card h3 { color: #e2e8f0; margin-top: 20px; }
+        .formula-box {
+            background: rgba(15, 23, 42, 0.6);
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 3px solid var(--accent);
+            margin: 10px 0;
+            font-size: 1.1rem;
+            overflow-x: auto;
+        }
+        .text-content { line-height: 1.6; color: #cbd5e1; }
+    </style>
+</head>
+<body>
+    <div id="pixi-background"></div>
+
+    <header>
+        <div class="logo"><a href="index.html">EduJojo.world</a> <span>Physics & Chemistry Lab</span></div>
+        <nav>
+            <a href="/">HOME</a>
+            <a href="theorems.html" style="color:var(--accent);">Theorems</a>
+            <a href="formulas.html">Formulas</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <div class="container main-layout">
+        <main>
+            <div class="ad-container ad-970">
+                <div id='among-us-wtf_970x250'>
+                    <script type='text/javascript'>
+                        aiptag.cmd.display.push(function() { aipDisplayTag.display('among-us-wtf_970x250'); });
+                    </script>
+                </div>
+            </div>
+
+            <section class="intro-text">
+                <h1>Fundamental Theorems & Formulas</h1>
+                <p>A curated collection of essential principles in Classical Mechanics, Thermodynamics, and Stoichiometry. These resources are optimized for quick reference during laboratory sessions.</p>
+            </section>
+
+            <div class="content-card">
+                <h2>Physics: Classical Mechanics</h2>
+                <div class="text-content">
+                    <p>Newton's laws of motion are three physical laws that, together, laid the foundation for classical mechanics. They describe the relationship between a body and the forces acting upon it.</p>
+                    
+                    <h3>Newton's Second Law</h3>
+                    <div class="formula-box">
+                        $$ F_{net} = m \cdot a $$
+                    </div>
+                    <p>Where <em>F</em> is the net force applied, <em>m</em> is the mass of the object, and <em>a</em> is the acceleration.</p>
+
+                    <h3>Kinematic Equations (Constant Acceleration)</h3>
+                    <div class="formula-box">
+                        $$ x = x_0 + v_0t + \frac{1}{2}at^2 $$
+                    </div>
+                    <div class="formula-box">
+                        $$ v^2 = v_0^2 + 2a(x - x_0) $$
+                    </div>
+
+                    <h3>Work-Energy Theorem</h3>
+                    <div class="formula-box">
+                        $$ W_{net} = \Delta K = \frac{1}{2}mv_f^2 - \frac{1}{2}mv_i^2 $$
+                    </div>
+                </div>
+            </div>
+
+            <div class="content-card">
+                <h2>Chemistry: Stoichiometry & Gas Laws</h2>
+                <div class="text-content">
+                    <p>Understanding the behavior of gases and the quantitative relationships in chemical reactions is crucial for advanced chemistry studies.</p>
+
+                    <h3>Ideal Gas Law</h3>
+                    <div class="formula-box">
+                        $$ PV = nRT $$
+                    </div>
+                    <p>Describes the state of a hypothetical ideal gas. <em>P</em> is pressure, <em>V</em> is volume, <em>n</em> is amount of substance, <em>R</em> is the ideal gas constant, and <em>T</em> is absolute temperature.</p>
+
+                    <h3>Molarity Calculation</h3>
+                    <div class="formula-box">
+                        $$ M = \frac{n_{solute}}{V_{solution} (L)} $$
+                    </div>
+                </div>
+            </div>
+
+            <div class="content-card">
+                <h2>Applied Mathematics</h2>
+                <div class="text-content">
+                    <h3>Quadratic Formula</h3>
+                    <div class="formula-box">
+                        $$ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+                    </div>
+                    
+                    <h3>Euler's Identity</h3>
+                    <div class="formula-box">
+                        $$ e^{i\pi} + 1 = 0 $$
+                    </div>
+                    <p>Often cited as the most beautiful equation in mathematics.</p>
+                </div>
+            </div>
+
+        </main>
+
+        <aside>
+            <div class="ad-container" style="width:300px; height:600px;">
+                <div id='among-us-wtf_300x600'>
+                    <script type='text/javascript'>
+                        aiptag.cmd.display.push(function() { aipDisplayTag.display('among-us-wtf_300x600'); });
+                    </script>
+                </div>
+            </div>
+        </aside>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 EduJojo Academic Foundation. Indexed for Educational Use.</p>
+    </footer>
+
+    <script>
+         
+        document.addEventListener('DOMContentLoaded', () => {
+            const container = document.getElementById('pixi-background');
+            if (!container) return;
+            const app = new PIXI.Application({ backgroundAlpha: 0, resizeTo: window, antialias: true });
+            container.appendChild(app.view);
+            const count = 40; const particles = [];
+            for (let i = 0; i < count; i++) {
+                const p = new PIXI.Graphics();
+                p.beginFill(0x38bdf8, 0.4); p.drawCircle(0, 0, Math.random()*2+1); p.endFill();
+                p.x = Math.random() * app.screen.width; p.y = Math.random() * app.screen.height;
+                p.vx = (Math.random()-0.5)*0.3; p.vy = (Math.random()-0.5)*0.3;
+                app.stage.addChild(p); particles.push(p);
+            }
+            const lines = new PIXI.Graphics(); app.stage.addChild(lines);
+            app.ticker.add(() => {
+                lines.clear();
+                particles.forEach((p, i) => {
+                    p.x += p.vx; p.y += p.vy;
+                    if(p.x<0||p.x>app.screen.width) p.vx*=-1; if(p.y<0||p.y>app.screen.height) p.vy*=-1;
+                    for (let j=i+1; j<particles.length; j++) {
+                        const p2=particles[j];
+                        const dx=p.x-p2.x; const dy=p.y-p2.y; const dist=Math.sqrt(dx*dx+dy*dy);
+                        if(dist<120) {
+                            lines.lineStyle(1, 0x38bdf8, (1-dist/120)*0.2);
+                            lines.moveTo(p.x, p.y); lines.lineTo(p2.x, p2.y);
+                        }
+                    }
+                });
+            });
+        });
+    </script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-MQRWJETVEB"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-MQRWJETVEB');
+    </script>
+</body>
+</html>
