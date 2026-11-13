@@ -1,1 +1,3971 @@
-function study_0x1b9d(){const _0x2bb689=['Adventure\x20Drivers','img/21545.webp','img/21441.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/riddleschool2/','img/21474.webp','img/21625.webp','draw-the-hill','2048-multitask','Rolling\x20Forests','https://4yqt7wrhtx-ship-it.github.io/action-games/sm64/','https://4yqt7wrhtx-ship-it.github.io/action-games/paper-minecraft/','tosstheturtle','img/21395.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/pizza-tower/','Penalty\x20Shooter\x202','the-final-earth','Csgo\x20Clicker','Territorial','rooftop-snipers','https://4yqt7wrhtx-ship-it.github.io/strategy-games/deepest-sword/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/riddleschool3/','pudding-monster','https://4yqt7wrhtx-ship-it.github.io/driving-games/8-ball/','impossiblequiz','dragon-vs-bricks','Slope\x20Ball','Mario','Mario\x20Bros','Sky\x20Car\x20Stunt','Hackertype','go-ball','Vex6','down-the-hill','img/21506.webp','just-fall','https://4yqt7wrhtx-ship-it.github.io/strategy-games/circlo/','https://4yqt7wrhtx-ship-it.github.io/casual-games/cookie-clicker/','img/21266.webp','Icy\x20Head\x202','Bullet\x20Force','[CwhyfKZMPMGATJEUFBsMBfphBHehKA]','img/21248.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/craftmine/','Guess\x20Kitty','Cubefield','img/21569.webp','img/21368.webp','https://4yqt7wrhtx-ship-it.github.io/casual-games/space-bar-clicker/','https://4yqt7wrhtx-ship-it.github.io/casual-games/webgl-fluid-simulation/','https://4yqt7wrhtx-ship-it.github.io/driving-games/big-shot-boxing/','https://4yqt7wrhtx-ship-it.github.io/driving-games/burnin-rubber-5xs/','https://4yqt7wrhtx-ship-it.github.io/driving-games/parking-fury-2/','https://4yqt7wrhtx-ship-it.github.io/action-games/vex8/','length','https://4yqt7wrhtx-ship-it.github.io/action-games/motox3m/','amidst-the-clouds','Blacholesquare','https://4yqt7wrhtx-ship-it.github.io/strategy-games/wheely-6/','wallsmash','Basket\x20Champs','https://4yqt7wrhtx-ship-it.github.io/casual-games/learn-to-fly-2/','fancy-pants-3','img/21599.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/geometry-dash/','car-rush','Bloxors','basket-random','color-match','Ctr','https://4yqt7wrhtx-ship-it.github.io/action-games/hide-and-smash/','stickman-golf','img/21348.webp','Crossyroad','Cell\x20Machine','https://4yqt7wrhtx-ship-it.github.io/strategy-games/dummy-never-fails/','img/21584.webp','img/21646.webp','img/21379.webp','1v1\x20Soccer','Veloce','img/21645.webp','img/21556.webp','img/21468.webp','breakingthebank','https://4yqt7wrhtx-ship-it.github.io/action-games/supermarioconstruct/','Stack','https://4yqt7wrhtx-ship-it.github.io/action-games/tube-jumpers/','Save\x20The\x20Dodge','get-on-top','Wordle','cookie-clicker','yoshifabrication','https://4yqt7wrhtx-ship-it.github.io/action-games/subway-surfers/','spacegarden','img/21606.webp','img/21256.webp','img/21620.webp','img/21502.webp','papas-hotdog','Vex8','doge2048','edge-surf','rise-higher','Spider\x20Solitaire','Mr\x20Bullet','blackknight','img/21570.webp','img/21476.webp','https://4yqt7wrhtx-ship-it.github.io/driving-games/super-liquid-soccer/','Eggy\x20Car','Stack\x20Bump\x203d','img/21512.webp','Worlds\x20Hardest\x20Game','Ctr\x20Tr','img/21278.webp','img/21313.webp','img/21463.webp','turn-turn','4516704zLTqxB','https://4yqt7wrhtx-ship-it.github.io/driving-games/get-on-top/','Mineblocks','Handshakes','Learn\x20To\x20Fly\x202','wheely-2','Soccer\x20Random','Amidst\x20The\x20Clouds','earn-to-die','tactical-weapon-pack-2','goodnight','tag','polybranch','https://4yqt7wrhtx-ship-it.github.io/casual-games/push-the-square/','little-alchemy-2','cell-machine','Tag','paper-3','img/21377.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/trimps/','penalty-shooters-3','img/21407.webp','slope-2','Papas\x20Pasta','img/21550.webp','merge-round-racers','Madalin\x20Stunt\x20Cars\x202','Game\x20Inside','1182584eNqNlr','aquapark-slides','Google\x20Feud','soccer-random','bloonstd2','8\x20Ball','https://4yqt7wrhtx-ship-it.github.io/action-games/gimme-the-airpod/','https://4yqt7wrhtx-ship-it.github.io/action-games/gswitch-2/','https://4yqt7wrhtx-ship-it.github.io/casual-games/dino-merge/','https://4yqt7wrhtx-ship-it.github.io/action-games/gobdun/','img/21521.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/money-movers-3/','Getaway\x20Shootout','img/21414.webp','img/21432.webp','3280vbkVLJ','img/21284.webp','Core\x20Ball','https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-pancake/','img/21657.webp','ball-sort-halloween','https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-taco/','img/21357.webp','moving-truck','https://4yqt7wrhtx-ship-it.github.io/casual-games/doodle-jump/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/save-the-dodge/','img/21409.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/minecraft-18/','angry-sharks','charCodeAt','img/21433.webp','img/21542.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/woodventure/','tiny-islands','Stick\x20Archers','4774820ncjIJH','Awesome\x20Tanks\x202','territorial','Moving\x20Truck','img/21434.webp','jewels-blitz-5','img/21622.webp','img/21301.webp','stick-archers','Dogeminer','img/21255.webp','crazy-tunnel-3d','img/21385.webp','img/21413.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/bad-ice-cream/','Bubble\x20Pop','https://4yqt7wrhtx-ship-it.github.io/action-games/goodnight/','https://4yqt7wrhtx-ship-it.github.io/action-games/evil-glitch/','getaway-shootout','happy-hop','img/21504.webp','img/21488.webp','Fireboywatergirlforesttemple','https://4yqt7wrhtx-ship-it.github.io/action-games/helicopter/','marbles-sorting','Motox3m\x20Pool','Jetpack\x20Joyride','img/21538.webp','img/21626.webp','sling-tomb','https://4yqt7wrhtx-ship-it.github.io/driving-games/wheelie-bike/','alienhominid','img/21611.webp','Skibidi\x20Strike','https://4yqt7wrhtx-ship-it.github.io/strategy-games/ctr-holiday/','temple-run-2','img/21677.webp','Infiltrating\x20Airship','jetpack-joyride','papa-cherry-saga','Supermarioconstruct','https://4yqt7wrhtx-ship-it.github.io/strategy-games/greybox/','img/21548.webp','idle-restaurants','Icy\x20Head\x203','Wheelie\x20Bike\x202','Merge\x20Round\x20Racers','https://4yqt7wrhtx-ship-it.github.io/driving-games/basket-and-ball/','Fake\x20Virus','park-out','img/21676.webp','Polybranch','https://4yqt7wrhtx-ship-it.github.io/strategy-games/connect3/','twitch-tetris','img/21358.webp','head-soccer','minecraft-15','https://4yqt7wrhtx-ship-it.github.io/strategy-games/achievementunlocked/','mr-bullet','Doctor\x20Acorn2','fake-virus','Knife\x20Master','Action','sQtukUmQUdyn1Am0S-L7GIc30Fe6.DQgAPitlzaYMBb.iCowhNqNPAJYOrkxUDCXnYKFPQvpUrrnCzJFPwWY','worlds-hardest-game','https://4yqt7wrhtx-ship-it.github.io/driving-games/adrenalinechallenge/','img/21334.webp','Rooftop\x20Snipers','https://4yqt7wrhtx-ship-it.github.io/strategy-games/portalflash/','x-trial-racing','img/21593.webp','https://4yqt7wrhtx-ship-it.github.io/casual-games/little-alchemy-2/','wordle-unlimited','soccer-heads','bad-ice-cream-3','tanuki-sunset','Fnaf','https://4yqt7wrhtx-ship-it.github.io/strategy-games/stormthehouse2/','Wheely\x202','img/21253.webp','https://4yqt7wrhtx-ship-it.github.io/driving-games/volley-random/','img/21442.webp','tap-tap-shots','img/21250.webp','img/21430.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/infiltrating-airship/','wheely-3','Tanuki\x20Sunset','kitchen-gun-game','Among\x20Us','img/21489.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/stickman-golf/','Slope\x202','deal-or-no-deal','glitch-dash','https://4yqt7wrhtx-ship-it.github.io/action-games/apple-shooter/','img/21446.webp','pokemon-emerald-2','Papas\x20Donut','Terraira','https://4yqt7wrhtx-ship-it.github.io/driving-games/monster-truck-destroyer/','flappy-bird','https://4yqt7wrhtx-ship-it.github.io/action-games/alienhominid/','https://4yqt7wrhtx-ship-it.github.io/driving-games/axis-football-league/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/bloxors/','ovo','https://4yqt7wrhtx-ship-it.github.io/action-games/boxel-rebound/','img/21553.webp','img/21245.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/bobtherobber2/','img/21612.webp','wheelie-bike','img/21481.webp','dummy-never-fails-2','img/21594.webp','https://4yqt7wrhtx-ship-it.github.io/driving-games/wheelie-bike-2/','https://4yqt7wrhtx-ship-it.github.io/action-games/super-mario-wonder/','https://4yqt7wrhtx-ship-it.github.io/action-games/gun-mayhem/','Drift\x20Boss','https://4yqt7wrhtx-ship-it.github.io/casual-games/ducklife-2/','Wordle\x20Unlimited','10-minutes-till-dawn','img/21273.webp','ball-sort-soccer','https://4yqt7wrhtx-ship-it.github.io/strategy-games/wheely-5/','Hop\x20Pop\x20It','Wheely\x203','Hide\x20And\x20Smash','Infinite\x20Soccer','img/21347.webp','bacon-may-die','img/21360.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/tunnel-rush/','img/21534.webp','img/21303.webp','img/21574.webp','https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-freeze/','Casual','nut-simulator','blacholesquare','mutazone','Aquapark\x20Slides','Avalanche','minesweeper','img/21544.webp','img/21501.webp','Trimps','img/21437.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/bitlife/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/bloonstd2/','img/21286.webp','https://4yqt7wrhtx-ship-it.github.io/driving-games/icycle/','burrito-bison-revenge','img/21663.webp','wheely-6','img/21374.webp','img/21404.webp','img/21426.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/rooftop-snipers/','Deal\x20Or\x20No\x20Deal','minecraft-18','img/21580.webp','Football\x20Brawl','https://4yqt7wrhtx-ship-it.github.io/strategy-games/money-movers/','img/2000.webp','img/21508.webp','Snowbattle','img/21308.webp','Color\x20Match','img/21602.webp','img/21459.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/wordle/','Gunblood','Pandemic2','Ducklife','hextris','about:CblawnhyfkKZMPMGATJEUFBsMBfphBHehKA','core-ball','img/21310.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/2048-multitask/','https://4yqt7wrhtx-ship-it.github.io/driving-games/edge-surf/','ages-of-conflict','circlo2','Bomb\x20It\x207','img/21526.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/vex5/','https://4yqt7wrhtx-ship-it.github.io/action-games/soldier-legend/','Racing\x20Monster\x20Truck','img/21277.webp','img/21497.webp','Icycle','https://4yqt7wrhtx-ship-it.github.io/action-games/temple-run-2/','checkers-legend','basket-and-ball','https://4yqt7wrhtx-ship-it.github.io/driving-games/cluster-rush/','Wheelie\x20Bike','img/21513.webp','Retro\x20Bowl','Papas\x20Hotdog','ducklife-2','monster-truck-destroyer','28469MjFQEv','img/21454.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/protektor/','https://4yqt7wrhtx-ship-it.github.io/action-games/stack-bump-3d/','Championarcher','https://4yqt7wrhtx-ship-it.github.io/casual-games/kittencannon/','canyondefense','img/21419.webp','img/21561.webp','gswitch-3','Dead\x20Again','Park\x20Out','synesthesia','https://4yqt7wrhtx-ship-it.github.io/action-games/mineblocks/','Dodge','https://4yqt7wrhtx-ship-it.github.io/casual-games/bottle-flip/','Geometry\x20Dash','adarkroom','img/21499.webp','Thebattle','https://4yqt7wrhtx-ship-it.github.io/strategy-games/battleforgondor/','img/21598.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/tosstheturtle/','learntofly','img/21630.webp','img/21292.webp','Wheely\x206','https://4yqt7wrhtx-ship-it.github.io/strategy-games/checkers-legend/','https://4yqt7wrhtx-ship-it.github.io/action-games/eagle-ride/','Stick\x20Merge','big-shot-boxing','img/21582.webp','apply','img/21328.webp','Circlo','Wheely\x207','Stealingthediamond','https://4yqt7wrhtx-ship-it.github.io/strategy-games/georgeandtheprinter/','2048','https://4yqt7wrhtx-ship-it.github.io/strategy-games/the-hotel/','https://4yqt7wrhtx-ship-it.github.io/action-games/thisistheonlylevel/','img/21605.webp','img/21324.webp','Bloonstd4','img/21503.webp','craftmine','img/21307.webp','Fnaw','https://4yqt7wrhtx-ship-it.github.io/casual-games/elastic-face/','woodventure','missiles','img/21675.webp','img/21306.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/bob-the-robber-4/','stack','https://4yqt7wrhtx-ship-it.github.io/action-games/iron-snout/','https://4yqt7wrhtx-ship-it.github.io/action-games/tactical-weapon-pack-2/','Yoshifabrication','Little\x20Alchemy\x202','img/21418.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/offlineparadise/','smokingbarrels','img/21398.webp','thebattle','https://4yqt7wrhtx-ship-it.github.io/action-games/mario/','img/21389.webp','https://4yqt7wrhtx-ship-it.github.io/casual-games/sort-the-court/','https://4yqt7wrhtx-ship-it.github.io/action-games/groovy-ski/','Creativekillchamber','Tank\x20Trouble\x202','ctr-tr','https://4yqt7wrhtx-ship-it.github.io/casual-games/clicker-heroes/','img/21560.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/burrito-bison-revenge/','Idle\x20Breakout','https://4yqt7wrhtx-ship-it.github.io/strategy-games/ctr-tr/','Earn\x20To\x20Die','wbwwb','ducklife4','img/21496.webp','img/21653.webp','Papas\x20Sushi','pou','Blumgi\x20Slime','Portalflash','img/21263.webp','Bigredbutton','endless-tunnel','Wheely\x204','img/21486.webp','bottle-flip-3d','img/21655.webp','img/21537.webp','https://4yqt7wrhtx-ship-it.github.io/casual-games/gura-temberine/','img/21470.webp','img/21438.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/dragon-vs-bricks/','ballistic','img/21297.webp','Learntofly','img/21326.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/crazy-tunnel-3d/','escaping-prison','Happy\x20Hop','heads-arena','pacman','https://4yqt7wrhtx-ship-it.github.io/action-games/missiles/','tunnel-rush-2','Pokemon\x20Emerald','wheely-8','https://4yqt7wrhtx-ship-it.github.io/driving-games/football-legends/','Head\x20Soccer','dino-merge','img/21511.webp','Fancy\x20Pants\x203','https://4yqt7wrhtx-ship-it.github.io/action-games/bomb-it-7/','Money\x20Movers\x202','img/21678.webp','Super\x20Liquid\x20Soccer','Goodnight','adam-eve','portalflash','motox3m','img/21649.webp','Ninjavsevilcorp','Alienhominid','Bad\x20Ice\x20Cream\x203','https://4yqt7wrhtx-ship-it.github.io/strategy-games/roper/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/1/','bobtherobber2','Dino\x20Merge','https://4yqt7wrhtx-ship-it.github.io/casual-games/bigredbutton/','Down\x20The\x20Hill','https://4yqt7wrhtx-ship-it.github.io/strategy-games/canyondefense/','https://4yqt7wrhtx-ship-it.github.io/action-games/gladihoppers/','https://4yqt7wrhtx-ship-it.github.io/driving-games/pixel-smash-duels/','motox3m-winter','Tiny\x20Fishing','plants-vs-zombies','theheist','matrixrampage','Boxel\x20Rebound','img/21375.webp','tacticalassasin2','learn-to-fly-2','boxel-rebound','Endless\x20Truck','idle-breakout','https://4yqt7wrhtx-ship-it.github.io/action-games/tacticalassasin2/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/tower-crash-3d/','https://4yqt7wrhtx-ship-it.github.io/casual-games/csgo-clicker/','the-hotel','img/21681.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/stack/','fisherman-life','img/21429.webp','img/21608.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/slope/','img/21369.webp','minecraftbeta','space-company','https://4yqt7wrhtx-ship-it.github.io/casual-games/bitcoin-clicker/','9802140joFkjo','img/21477.webp','icy-head-2','bloonstd4','img/21478.webp','Solitaire','https://4yqt7wrhtx-ship-it.github.io/driving-games/penalty-shooters-3/','Papas\x20Freeze','Miniputt','https://4yqt7wrhtx-ship-it.github.io/action-games/snowbattle/','eagle-ride','dino-bros','https://4yqt7wrhtx-ship-it.github.io/driving-games/retro-bowl/','https://4yqt7wrhtx-ship-it.github.io/action-games/motox3m-winter/','Santy\x20Is\x20Home','dodge','veloce','papas-bake','https://4yqt7wrhtx-ship-it.github.io/strategy-games/dino-bros/','Swingo','https://4yqt7wrhtx-ship-it.github.io/strategy-games/snail-bob-8/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/gravity-soccer/','waterworks','img/21259.webp','Nut\x20Simulator','hide-and-smash','Achievementunlocked','img/21671.webp','Pixel\x20Smash\x20Duels','img/21491.webp','img/21673.webp','Baldis\x20Basics','img/21249.webp','img/21666.webp','Sport','https://4yqt7wrhtx-ship-it.github.io/casual-games/idle-mining/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/escaping-prison/','https://4yqt7wrhtx-ship-it.github.io/action-games/getaway-shootout/','Fancy\x20Pants\x202','https://4yqt7wrhtx-ship-it.github.io/casual-games/rise-higher/','subway-surfers','Tube\x20Jumpers','img/21480.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/creativekillchamber/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/rabbit-samurai/','Super\x20Mario\x20Wonder','tower-crash-3d','factoryballs','wheelie-bike-2','Gladihoppers','https://4yqt7wrhtx-ship-it.github.io/strategy-games/breakingthebank/','https://4yqt7wrhtx-ship-it.github.io/action-games/championarcher/','bally','Dragon\x20Vs\x20Bricks','img/21668.webp','papas-donut','img/21603.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/cubefield/','Minecraftbeta','Run\x202','Jewels\x20Blitz\x205','https://4yqt7wrhtx-ship-it.github.io/strategy-games/bad-ice-cream-2/','img/21650.webp','Matrixrampage','pandas-japan','Angry\x20Sharks','https://4yqt7wrhtx-ship-it.github.io/strategy-games/rabbit-samurai2/','Gswitch','Groovy\x20Ski','img/21573.webp','riddleschool','Wood\x20Block\x20Puzzle','bloxors','S.t.ra.te.g.y','Wheely\x208','just-one-boss','papas-sushi','groovy-ski','https://4yqt7wrhtx-ship-it.github.io/action-games/fnaf/','img/21387.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/minecraftbeta/','Rabbit\x20Samurai','deepest-sword','img/21590.webp','adam-eve-2','particle-clicker','Crazy\x20Tunnel\x203d','img/21268.webp','https://4yqt7wrhtx-ship-it.github.io/casual-games/dogeminer/','img/21483.webp','img/21443.webp','blumgi-slime','Gravity\x20Soccer','Wheely\x205','Iron\x20Snout','https://4yqt7wrhtx-ship-it.github.io/action-games/ohio-fortnite/','achievementunlocked','https://4yqt7wrhtx-ship-it.github.io/driving-games/draw-the-hill/','Deepest\x20Sword','Papasburgeria','papas-cheese','Draw\x20The\x20Hill','img/21431.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/bacon-may-die/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/doge2048/','Georgeandtheprinter','https://4yqt7wrhtx-ship-it.github.io/strategy-games/blumgi-rocket/','Cluster\x20Rush','https://4yqt7wrhtx-ship-it.github.io/casual-games/nut-simulator/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/fleeing-complex/','Burrito\x20Bison\x20Revenge','https://4yqt7wrhtx-ship-it.github.io/action-games/tunnel-rush-2/','https://4yqt7wrhtx-ship-it.github.io/action-games/glitch-dash/','Cannon\x20Basketball\x204','img/21613.webp','Elastic\x20Face','https://4yqt7wrhtx-ship-it.github.io/strategy-games/impossiblequiz/','img/21540.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/bad-ice-cream-3/','helicopter','img/21353.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/color-match/','backrooms-2d','img/21329.webp','img/21661.webp','Stickman\x20Hook','img/21624.webp','img/21309.webp','1v1lol','img/21376.webp','Tunnel\x20Rush\x202','https://4yqt7wrhtx-ship-it.github.io/casual-games/particle-clicker/','Smokingbarrels','img/21332.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/wordle-unlimited/','img/21577.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/climb-over-it/','Edgenotfound','img/21382.webp','stick-duel-battle','drift-boss','img/21462.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/papery-planes/','img/21350.webp','https://4yqt7wrhtx-ship-it.github.io/casual-games/sandboxels/','Riddletransfer','replace','https://4yqt7wrhtx-ship-it.github.io/action-games/slope-2/','{}.constructor(\x22return\x20this\x22)(\x20)','img/21361.webp','bottle-flip','Basket\x20Random','indexOf','https://4yqt7wrhtx-ship-it.github.io/action-games/galaga/','https://4yqt7wrhtx-ship-it.github.io/action-games/turn-turn/','super-liquid-soccer','https://4yqt7wrhtx-ship-it.github.io/driving-games/eggy-car/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/papa-cherry-saga/','mario-bros','img/21421.webp','Penalty\x20Kick','football-brawl','img/21527.webp','Fisherman\x20Life','img/21600.webp','geometry-dash','My\x20Rusty\x20Submarine','img/21610.webp','img/21318.webp','Space\x20Bar\x20Clicker','https://4yqt7wrhtx-ship-it.github.io/action-games/mario-bros/','Money\x20Movers\x203','football-strike','https://4yqt7wrhtx-ship-it.github.io/action-games/angry-sharks/','gswitch-2','https://4yqt7wrhtx-ship-it.github.io/strategy-games/territorial/','https://4yqt7wrhtx-ship-it.github.io/driving-games/parking-fury/','https://4yqt7wrhtx-ship-it.github.io/driving-games/football-brawl/','https://4yqt7wrhtx-ship-it.github.io/driving-games/basketball-stars/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/wallsmash/','img/21571.webp','Riddleschool4','https://4yqt7wrhtx-ship-it.github.io/action-games/gunblood/','Stickman\x20Boost','img/21330.webp','Gun\x20Mayhem\x202','img/21260.webp','img/21596.webp','img/21410.webp','trimps','img/21448.webp','game-inside','https://4yqt7wrhtx-ship-it.github.io/driving-games/heads-arena/','https://4yqt7wrhtx-ship-it.github.io/action-games/champion-island/','img/21585.webp','madalin-stunt-cars-2','img/21412.webp','img/21449.webp','stack-bump-3d','Cartoon\x20Mini\x20Racing','img/21595.webp','Yohoho.io','img/21282.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/fancypantsadventures/','Spacegarden','https://4yqt7wrhtx-ship-it.github.io/action-games/ovo-dimensions/','creativekillchamber','hop-pop-it','Whack\x20Your\x20Boss','burrito-bison','img/21592.webp','img/21420.webp','https://4yqt7wrhtx-ship-it.github.io/driving-games/penalty-shooter-2/','https://4yqt7wrhtx-ship-it.github.io/action-games/blumgi-slime/','soldier-legend','https://4yqt7wrhtx-ship-it.github.io/strategy-games/minesweeper/','https://4yqt7wrhtx-ship-it.github.io/action-games/1v1lol/','Glitch\x20Dash','stick-merge','Endlesswar3','img/21336.webp','Temple\x20Run\x202','9007199254740992','Bitlife','https://4yqt7wrhtx-ship-it.github.io/action-games/avalanche/','img/21314.webp','img/21367.webp','Weavesilk','https://4yqt7wrhtx-ship-it.github.io/strategy-games/wheely-8/','https://4yqt7wrhtx-ship-it.github.io/action-games/stick-merge/','https://4yqt7wrhtx-ship-it.github.io/action-games/ovo-2/','https://4yqt7wrhtx-ship-it.github.io/casual-games/ducklife-3/','img/21275.webp','my-rusty-submarine','Traffic\x20Control','img/21461.webp','gimme-the-airpod','img/21261.webp','Riddleschool2','pcraft','https://4yqt7wrhtx-ship-it.github.io/strategy-games/miniputt/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/wheely-4/','https://4yqt7wrhtx-ship-it.github.io/driving-games/racing-monster-truck/','vex8','img/21287.webp','Gobdun','save-the-dodge','flashtetris','om-bounce','https://4yqt7wrhtx-ship-it.github.io/action-games/adam-eve/','ctr-holiday','tunnel-rush','img/21660.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/crossyroad/','img/21647.webp','img/21632.webp','https://4yqt7wrhtx-ship-it.github.io/casual-games/hop-pop-it/','https://4yqt7wrhtx-ship-it.github.io/driving-games/bicycle-stunt-3d/','N\x20Gon','Penalty\x20Shooters\x203','img/21351.webp','riddleschool2','img/21246.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/traffic-control/','push-your-luck','georgeandtheprinter','img/21464.webp','champion-island','Geodash','Tacticalassasin2','https://4yqt7wrhtx-ship-it.github.io/casual-games/veloce/','A.c.t.io.n','Papas\x20Cupcake','Backrooms\x202d','Bitcoin\x20Clicker','Basket\x20And\x20Ball','https://4yqt7wrhtx-ship-it.github.io/strategy-games/evolution/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/word-slide/','slope','img/21597.webp','Galaga','Ball\x20Sort\x20Soccer','3d\x20Bowling','img/21651.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/ninjavsevilcorp/','Tosstheturtle','Idle\x20Mining','img/21636.webp','funnyshooter2','Block\x20Pig','Rusher\x20Crusher','https://4yqt7wrhtx-ship-it.github.io/action-games/gun-mayhem-2/','motox3m-spooky','Waterworks','https://4yqt7wrhtx-ship-it.github.io/action-games/smokingbarrels/','edgenotfound','https://4yqt7wrhtx-ship-it.github.io/driving-games/aquapark-slides/','fromCharCode','img/21354.webp','bitcoin-clicker','img/21528.webp','img/21586.webp','img/21552.webp','img/21320.webp','img/21656.webp','https://4yqt7wrhtx-ship-it.github.io/driving-games/madalin-stunt-cars-2/','https://4yqt7wrhtx-ship-it.github.io/action-games/run-3-space/','Frying\x20Nemo','Kitchen\x20Gun\x20Game','img/21428.webp','Slope','Minecraft\x2018','eel-slap','Ducklife\x202','gswitch','block-pig','Ballistic','img/21288.webp','papas-pasta','Climb\x20Over\x20It','https://4yqt7wrhtx-ship-it.github.io/driving-games/drift-boss/','Bouncy\x20Woods','img/21406.webp','img/21397.webp','Adarkroom','https://4yqt7wrhtx-ship-it.github.io/action-games/just-one-boss/','https://4yqt7wrhtx-ship-it.github.io/action-games/vex4/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/bloonstd4/','Circlo2','evolution','img/21616.webp','Gura\x20Temberine','https://4yqt7wrhtx-ship-it.github.io/strategy-games/pudding-monster/','img/21349.webp','rolling-forests','Papas\x20Scoop','img/21408.webp','5464824LrqVYK','Farm\x20Match','Riddleschool5','Cars\x20Simulator','img/21267.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/boxhead2play/','Shuttledeck','football-run','https://4yqt7wrhtx-ship-it.github.io/strategy-games/stealingthediamond/','google-feud','img/21258.webp','Heads\x20Arena','Retro\x20Bowl\x20College','img/21247.webp','img/21615.webp','img/21576.webp','img/21425.webp','https://4yqt7wrhtx-ship-it.github.io/driving-games/x-trial-racing/','img/21302.webp','minecraft-case','img/21317.webp','img/21564.webp','pizza-tower','Dante','https://4yqt7wrhtx-ship-it.github.io/strategy-games/twitch-tetris/','img/21381.webp','img/21575.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/9007199254740992/','https://4yqt7wrhtx-ship-it.github.io/driving-games/penalty-kick/','Tower\x20Crash\x203d','https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-sushi/','img/21465.webp','img/21344.webp','img/21316.webp','Electron\x20Dash','football-legends','img/21479.webp','clicker-heroes','img/21359.webp','bigredbutton','You\x20Are\x20Bezos','https://4yqt7wrhtx-ship-it.github.io/driving-games/soccer-random/','yohoho','riddletransfer2','https://4yqt7wrhtx-ship-it.github.io/driving-games/biker-street/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/tiny-islands/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/go-ball/','img/21466.webp','Blumgi\x20Rocket','Football\x20Strike','Ovo','img/21644.webp','img/21500.webp','Soccer\x20Heads','baldis-basics','Get\x20On\x20Top','https://4yqt7wrhtx-ship-it.github.io/action-games/10-minutes-till-dawn/','https://4yqt7wrhtx-ship-it.github.io/action-games/dodge/','Kittencannon','https://4yqt7wrhtx-ship-it.github.io/action-games/knife-master/','rusher-crusher','riddleschool4','img/21507.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/fancy-pants-2/','Paper\x20Minecraft','img/21471.webp','Pixel\x20Gun\x20Survival','Craftmine','superhot','adrenalinechallenge','img/21509.webp','img/21405.webp','img/21642.webp','riddleschool3','https://4yqt7wrhtx-ship-it.github.io/action-games/motox3m2/','img/21396.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/ballistic/','vex4','https://4yqt7wrhtx-ship-it.github.io/strategy-games/my-rusty-submarine/','riddletransfer','Hungry\x20Lamu','img/21346.webp','parking-fury-3','among-us','Go\x20Ball','Turn\x20Turn','https://4yqt7wrhtx-ship-it.github.io/strategy-games/cell-machine/','dogeminer','img/21533.webp','climb-over-it','Townscaper','3rGmTYL','Stickman\x20Golf','generic-fishing-game','gura-temberine','wood-block-puzzle','img/21285.webp','https://4yqt7wrhtx-ship-it.github.io/casual-games/whack-your-boss/','img/21643.webp','img/21436.webp','img/21422.webp','sandboxels','https://4yqt7wrhtx-ship-it.github.io/action-games/arcane-archer/','img/21340.webp','img/21588.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/pokemon-emerald-2/','img/21365.webp','volley-random','https://4yqt7wrhtx-ship-it.github.io/strategy-games/ball-sort-soccer/','D.r.i.v.i.n.g','Motox3m','https://4yqt7wrhtx-ship-it.github.io/action-games/down-the-hill/','img/21614.webp','img/21403.webp','wheely-5','https://4yqt7wrhtx-ship-it.github.io/strategy-games/waterworks/','Snow\x20Ride','img/21679.webp','scrapmetal','Push\x20Your\x20Luck','https://4yqt7wrhtx-ship-it.github.io/action-games/bullet-force/','img/21383.webp','https://4yqt7wrhtx-ship-it.github.io/driving-games/football-strike/','Boxing\x20Random','img/21549.webp','Dino\x20Bros','Riddleschool','Stick\x20Duel\x20Battle','papas-taco','img/21505.webp','https://4yqt7wrhtx-ship-it.github.io/casual-games/ducklife/','https://4yqt7wrhtx-ship-it.github.io/driving-games/parking-fury-3/','Checkers\x20Legend','https://4yqt7wrhtx-ship-it.github.io/strategy-games/google-feud/','https://4yqt7wrhtx-ship-it.github.io/action-games/froggys-battle/','Offlineparadise','https://4yqt7wrhtx-ship-it.github.io/strategy-games/edgenotfound/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/circlo2/','Apple\x20Shooter','https://4yqt7wrhtx-ship-it.github.io/strategy-games/bubble-pop/','Marbles\x20Sorting','Roper','bullet-force','img/21648.webp','img/21482.webp','money-movers-3','championarcher','https://4yqt7wrhtx-ship-it.github.io/action-games/tag/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/park-out/','guess-kitty','Tiny\x20Islands','wolf3d','Worlds\x20Hardest\x20Game\x202','https://4yqt7wrhtx-ship-it.github.io/action-games/gun-mayhem-redux/','img/21311.webp','Superhot','word-slide','https://4yqt7wrhtx-ship-it.github.io/driving-games/soccer-heads/','Missiles','hanger','skywire','img/21264.webp','Money\x20Movers','https://4yqt7wrhtx-ship-it.github.io/action-games/vex3/','img/21623.webp','img/21532.webp','https://4yqt7wrhtx-ship-it.github.io/driving-games/3d-bowling/','Minecraft\x2015','fancy-pants-2','2048\x20Multitask','img/21621.webp','img/21525.webp','Defend\x20The\x20Tank','img/21424.webp','img/21281.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/funnyshooter2/','penalty-kick','https://4yqt7wrhtx-ship-it.github.io/action-games/vex7/','Death\x20Run\x203d','https://4yqt7wrhtx-ship-it.github.io/strategy-games/exo/','img/21665.webp','img/21522.webp','img/21291.webp','eggy-car','Meme2048','img/21472.webp','endless-truck','Just\x20Fall','https://4yqt7wrhtx-ship-it.github.io/action-games/just-fall/','https://4yqt7wrhtx-ship-it.github.io/casual-games/idle-breakout/','img/21411.webp','geodash','https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-bake/','img/21578.webp','ovo-2','Bloonstd','https://4yqt7wrhtx-ship-it.github.io/action-games/mutazone/','8-ball','Helicopter','Fruit\x20Ninja','https://4yqt7wrhtx-ship-it.github.io/casual-games/ducklife4/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/wheely-2/','papasburgeria','img/21300.webp','https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-scoop/','Motox3m\x20Spooky','https://4yqt7wrhtx-ship-it.github.io/strategy-games/hexempire/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/swingo/','Doge2048','Subway\x20Surfers','Space\x20Company','Ns\x20Shaft','https://4yqt7wrhtx-ship-it.github.io/strategy-games/1010-deluxe/','Gswitch\x202','doctor-acorn2','Snail\x20Bob\x207','frying-nemo','img/21551.webp','https://4yqt7wrhtx-ship-it.github.io/casual-games/pou/','https://4yqt7wrhtx-ship-it.github.io/action-games/superhot/','https://4yqt7wrhtx-ship-it.github.io/action-games/synesthesia/','endlesswar3','apple-shooter','galaga','Generic\x20Fishing\x20Game','img/21363.webp','Clicker\x20Heroes','Ohio\x20Fortnite','slime-rush-td','img/21627.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/thebattle/','papas-freeze','hexempire','Minecraft\x20Case','https://4yqt7wrhtx-ship-it.github.io/strategy-games/handshakes/','img/21274.webp','953320NthnPv','skibidi-strike','https://4yqt7wrhtx-ship-it.github.io/driving-games/adventure-drivers/','papas-scoop','vex6','img/21452.webp','img/21609.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/solitaire/','https://4yqt7wrhtx-ship-it.github.io/action-games/adarkroom/','Om\x20Bounce','img/21536.webp','Adam\x20Eve','adventure-anxiety','https://4yqt7wrhtx-ship-it.github.io/action-games/pcraft/','img/21638.webp','Tap\x20Tap\x20Shots','img/21674.webp','Run\x203\x20Space','https://4yqt7wrhtx-ship-it.github.io/action-games/sling-tomb/','img/21524.webp','tiny-fishing','hackertype','https://4yqt7wrhtx-ship-it.github.io/action-games/spacegarden/','img/21388.webp','1v1-soccer','Motox3m2','img/21498.webp','img/21484.webp','stickman-boost','10\x20Minutes\x20Till\x20Dawn','img/21633.webp','img/21495.webp','Word\x20Slide','bomb-it-7','Factoryballs','img/21257.webp','img/21371.webp','img/21567.webp','Exo','img/21518.webp','minecraft-classic','https://4yqt7wrhtx-ship-it.github.io/strategy-games/slime-rush-td/','https://4yqt7wrhtx-ship-it.github.io/action-games/santy-is-home/','elastic-face','Ovo\x202','Bobtherobber2','Idle\x20Restaurants','img/21473.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/station-141/','bouncy-woods','img/21510.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/riddletransfer/','Subway\x20Surfers\x20Ny','https://4yqt7wrhtx-ship-it.github.io/strategy-games/xx142-b2exe/','https://4yqt7wrhtx-ship-it.github.io/driving-games/cars-simulator/','https://4yqt7wrhtx-ship-it.github.io/action-games/stick-duel-battle/','parking-fury','iron-snout','https://4yqt7wrhtx-ship-it.github.io/action-games/defend-the-tank/','img/21670.webp','img/21416.webp','basketball-stars','thisistheonlylevel','https://4yqt7wrhtx-ship-it.github.io/action-games/geodash/','Fleeing\x20Complex','https://4yqt7wrhtx-ship-it.github.io/strategy-games/wheely-3/','infiltrating-airship','img/21321.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/worlds-hardest-game/','img/21400.webp','img/21272.webp','santy-is-home','https://4yqt7wrhtx-ship-it.github.io/strategy-games/block-pig/','Pokemon\x20Firered','ninja-cat','Drive\x20Mad','fleeing-complex','https://4yqt7wrhtx-ship-it.github.io/strategy-games/bally/','ns-shaft','img/21270.webp','img/21589.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/death-run-3d/','img/21516.webp','https://4yqt7wrhtx-ship-it.github.io/driving-games/car-rush/','img/21327.webp','station-141','ducklife-3','https://4yqt7wrhtx-ship-it.github.io/strategy-games/bouncy-woods/','https://4yqt7wrhtx-ship-it.github.io/driving-games/drive-mad/','Volley\x20Random','img/21467.webp','Ovo\x20Dimensions','Crazy\x20Cars','https://4yqt7wrhtx-ship-it.github.io/action-games/wolf3d/','cluster-rush','Webgl\x20Fluid\x20Simulation','img/21447.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/meme2048/','img/21541.webp','handshakes','https://4yqt7wrhtx-ship-it.github.io/strategy-games/bloonstd/','https://4yqt7wrhtx-ship-it.github.io/casual-games/yoshifabrication/','https://4yqt7wrhtx-ship-it.github.io/action-games/snow-ride/','bubble-pop','Pandas\x20Japan','defend-the-tank','gun-mayhem-2','https://4yqt7wrhtx-ship-it.github.io/strategy-games/ball-sort-halloween/','Edge\x20Surf','Ducklife4','img/21299.webp','img/21667.webp','Backrooms','https://4yqt7wrhtx-ship-it.github.io/strategy-games/game-inside/','ctr','gobdun','icycle','img/21563.webp','Big\x20Shot\x20Boxing','tube-jumpers','https://4yqt7wrhtx-ship-it.github.io/casual-games/fruit-ninja/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/pandas-japan/','img/21523.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/fancy-pants-3/','img/21579.webp','img/21494.webp','img/21399.webp','kittencannon','parking-fury-2','spider-solitaire','img/21490.webp','arcane-archer','https://4yqt7wrhtx-ship-it.github.io/action-games/endlesswar3/','Eel\x20Slap','img/21445.webp','ovo-dimensions','Bicycle\x20Stunt\x203d','https://4yqt7wrhtx-ship-it.github.io/casual-games/fake-virus/','you-are-bezos','45Zdewtm','https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-wing/','Pokemon\x20Emerald\x202','https://4yqt7wrhtx-ship-it.github.io/casual-games/fisherman-life/','img/21298.webp','Minecraft\x20Classic','https://4yqt7wrhtx-ship-it.github.io/strategy-games/flashtetris/','https://4yqt7wrhtx-ship-it.github.io/casual-games/baldis-basics/','super-mario-wonder','Snail\x20Bob\x208','Bob\x20The\x20Robber\x204','img/21364.webp','img/21295.webp','Papas\x20Taco','https://4yqt7wrhtx-ship-it.github.io/action-games/hungry-lamu/','penalty-shooter-2','Rise\x20Higher','icy-head-3','https://4yqt7wrhtx-ship-it.github.io/action-games/vex6/','https://4yqt7wrhtx-ship-it.github.io/action-games/ovo/','https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-donut/','whack-your-boss','roper','img/21392.webp','worlds-hardest-game-2','https://4yqt7wrhtx-ship-it.github.io/driving-games/theheist/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/riddleschool/','img/21547.webp','img/21325.webp','img/21572.webp','https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-pasta/','Bloonstd2','img/21319.webp','fancypantsadventures','https://4yqt7wrhtx-ship-it.github.io/driving-games/earn-to-die/','img/21343.webp','Theheist','X\x20Trial\x20Racing','img/21251.webp','img/21539.webp','supermarioconstruct','img/21279.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/slope-ball/','img/21591.webp','https://4yqt7wrhtx-ship-it.github.io/strategy-games/2048/','https://4yqt7wrhtx-ship-it.github.io/strategy-games/ninja-cat/','img/21520.webp','Protektor','motox3m-pool','Impossiblequiz','Just\x20One\x20Boss','offlineparadise','rolly-vortex','img/21312.webp','bicycle-stunt-3d','Btts','Adam\x20Eve\x202','img/21402.webp','https://4yqt7wrhtx-ship-it.github.io/action-games/tiny-fishing/','stickman-hook','Tactical\x20Weapon\x20Pack\x202','Bad\x20Ice\x20Cream','gunblood'];study_0x1b9d=function(){return _0x2bb689;};return study_0x1b9d();}const study_0x2f97c9=study_0x35fd;function study_0x35fd(_0x2c29ba,_0x1a04b7){_0x2c29ba=_0x2c29ba-0x1a7;const _0x39c16a=study_0x1b9d();let _0xc77a95=_0x39c16a[_0x2c29ba];return _0xc77a95;}(function(_0x37a57e,_0xfd6033){const _0x4e3b8f=study_0x35fd,_0x3384a4=_0x37a57e();while(!![]){try{const _0x57264e=-parseInt(_0x4e3b8f(0x3c8))/0x1*(-parseInt(_0x4e3b8f(0x5b5))/0x2)+-parseInt(_0x4e3b8f(0x36d))/0x3+-parseInt(_0x4e3b8f(0x599))/0x4+-parseInt(_0x4e3b8f(0x459))/0x5+parseInt(_0x4e3b8f(0x21c))/0x6+-parseInt(_0x4e3b8f(0x6a1))/0x7*(parseInt(_0x4e3b8f(0x5c4))/0x8)+-parseInt(_0x4e3b8f(0x4e4))/0x9*(-parseInt(_0x4e3b8f(0x5d8))/0xa);if(_0x57264e===_0xfd6033)break;else _0x3384a4['push'](_0x3384a4['shift']());}catch(_0x4aef02){_0x3384a4['push'](_0x3384a4['shift']());}}}(study_0x1b9d,0xf0bca));const study_0x3c082f=(function(){let _0x503e97=!![];return function(_0xa258a4,_0x32a1fc){const _0x572b21=_0x503e97?function(){const _0x26a6a4=study_0x35fd;if(_0x32a1fc){const _0x3af3d3=_0x32a1fc[_0x26a6a4(0x6c1)](_0xa258a4,arguments);return _0x32a1fc=null,_0x3af3d3;}}:function(){};return _0x503e97=![],_0x572b21;};}()),study_0xc77a95=study_0x3c082f(this,function(){const _0x5b4054=study_0x35fd,_0x5b8756=function(){const _0x49d032=study_0x35fd;let _0x483564;try{_0x483564=Function('return\x20(function()\x20'+_0x49d032(0x2b0)+');')();}catch(_0x131d76){_0x483564=window;}return _0x483564;},_0x43c945=_0x5b8756(),_0x2c406b=new RegExp('[QkUmQUnAmSLGIFDQAPzYMBCwhNqNPAJYOrkxUDCXnYKFPQvpUrrnCzJFPwWY]','g'),_0xa79cf1=_0x5b4054(0x617)[_0x5b4054(0x2ae)](_0x2c406b,'')['split'](';');let _0x4388aa,_0x183547,_0x35da14,_0x153e83;const _0x1aecdf=function(_0x195282,_0x7d0fa0,_0x22b9fa){const _0x2c1c06=_0x5b4054;if(_0x195282['length']!=_0x7d0fa0)return![];for(let _0x3a637f=0x0;_0x3a637f<_0x7d0fa0;_0x3a637f++){for(let _0x33fee6=0x0;_0x33fee6<_0x22b9fa['length'];_0x33fee6+=0x2){if(_0x3a637f==_0x22b9fa[_0x33fee6]&&_0x195282[_0x2c1c06(0x5d2)](_0x3a637f)!=_0x22b9fa[_0x33fee6+0x1])return![];}}return!![];},_0x59b951=function(_0x4e84c5,_0x2e74f9,_0x4617c0){return _0x1aecdf(_0x2e74f9,_0x4617c0,_0x4e84c5);},_0x529b71=function(_0x38909c,_0x39ff47,_0x39a505){return _0x59b951(_0x39ff47,_0x38909c,_0x39a505);},_0x53ea02=function(_0x20799f,_0x3b5dba,_0x12def1){return _0x529b71(_0x3b5dba,_0x12def1,_0x20799f);};for(let _0x49bf81 in _0x43c945){if(_0x1aecdf(_0x49bf81,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x4388aa=_0x49bf81;break;}}for(let _0x3e5040 in _0x43c945[_0x4388aa]){if(_0x53ea02(0x6,_0x3e5040,[0x5,0x6e,0x0,0x64])){_0x183547=_0x3e5040;break;}}for(let _0x434e88 in _0x43c945[_0x4388aa]){if(_0x529b71(_0x434e88,[0x7,0x6e,0x0,0x6c],0x8)){_0x35da14=_0x434e88;break;}}if(!('~'>_0x183547))for(let _0x44ae78 in _0x43c945[_0x4388aa][_0x35da14]){if(_0x59b951([0x7,0x65,0x0,0x68],_0x44ae78,0x8)){_0x153e83=_0x44ae78;break;}}if(!_0x4388aa||!_0x43c945[_0x4388aa])return;const _0x113456=_0x43c945[_0x4388aa][_0x183547],_0x2fd1dd=!!_0x43c945[_0x4388aa][_0x35da14]&&_0x43c945[_0x4388aa][_0x35da14][_0x153e83],_0x162b56=_0x113456||_0x2fd1dd;if(!_0x162b56)return;let _0x5e5426=![];for(let _0x38bfe0=0x0;_0x38bfe0<_0xa79cf1['length'];_0x38bfe0++){const _0x1349a3=_0xa79cf1[_0x38bfe0],_0x23ce40=_0x1349a3[0x0]===String[_0x5b4054(0x345)](0x2e)?_0x1349a3['slice'](0x1):_0x1349a3,_0x2c0d97=_0x162b56['length']-_0x23ce40['length'],_0x16a108=_0x162b56[_0x5b4054(0x2b4)](_0x23ce40,_0x2c0d97),_0x5a7549=_0x16a108!==-0x1&&_0x16a108===_0x2c0d97;_0x5a7549&&((_0x162b56[_0x5b4054(0x558)]==_0x1349a3[_0x5b4054(0x558)]||_0x1349a3[_0x5b4054(0x2b4)]('.')===0x0)&&(_0x5e5426=!![]));}if(!_0x5e5426){const _0x1de16f=new RegExp(_0x5b4054(0x54b),'g'),_0x67ff3f=_0x5b4054(0x688)[_0x5b4054(0x2ae)](_0x1de16f,'');_0x43c945[_0x4388aa][_0x35da14]=_0x67ff3f;}});study_0xc77a95();const ACADEMIC_DATASET=[{'slug':'1','label':'1','icon':study_0x2f97c9(0x644),'src':study_0x2f97c9(0x1fa),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x651),'label':study_0x2f97c9(0x476),'icon':study_0x2f97c9(0x322),'src':study_0x2f97c9(0x3a5),'categories':[study_0x2f97c9(0x32b)]},{'slug':'1010-deluxe','label':'1010\x20Deluxe','icon':study_0x2f97c9(0x37a),'src':study_0x2f97c9(0x441),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x471),'label':study_0x2f97c9(0x571),'icon':study_0x2f97c9(0x54c),'src':'https://4yqt7wrhtx-ship-it.github.io/driving-games/1v1-soccer/','categories':[study_0x2f97c9(0x23e)]},{'slug':study_0x2f97c9(0x29c),'label':study_0x2f97c9(0x29c),'icon':study_0x2f97c9(0x23c),'src':study_0x2f97c9(0x2f4),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x6c7),'label':study_0x2f97c9(0x6c7),'icon':study_0x2f97c9(0x62b),'src':study_0x2f97c9(0x510),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x52a),'label':study_0x2f97c9(0x416),'icon':study_0x2f97c9(0x50a),'src':study_0x2f97c9(0x68b),'categories':['S.t.ra.te.g.y']},{'slug':'3d-bowling','label':study_0x2f97c9(0x336),'icon':'img/21252.webp','src':study_0x2f97c9(0x413),'categories':[study_0x2f97c9(0x23e)]},{'slug':study_0x2f97c9(0x432),'label':study_0x2f97c9(0x5ba),'icon':study_0x2f97c9(0x627),'src':study_0x2f97c9(0x539),'categories':[study_0x2f97c9(0x23e)]},{'slug':study_0x2f97c9(0x2fa),'label':study_0x2f97c9(0x2fa),'icon':'img/21254.webp','src':study_0x2f97c9(0x388),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x27c),'label':study_0x2f97c9(0x236),'icon':study_0x2f97c9(0x5e2),'src':study_0x2f97c9(0x611),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x1f2),'label':study_0x2f97c9(0x464),'icon':study_0x2f97c9(0x582),'src':study_0x2f97c9(0x315),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x270),'label':study_0x2f97c9(0x51c),'icon':study_0x2f97c9(0x47c),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/adam-eve-2/','categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x6b2),'label':study_0x2f97c9(0x360),'icon':study_0x2f97c9(0x377),'src':study_0x2f97c9(0x461),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x3b2),'label':'Adrenalinechallenge','icon':study_0x2f97c9(0x233),'src':study_0x2f97c9(0x619),'categories':[study_0x2f97c9(0x616)]},{'slug':study_0x2f97c9(0x465),'label':'Adventure\x20Anxiety','icon':study_0x2f97c9(0x2d6),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/adventure-anxiety/','categories':['S.t.ra.te.g.y']},{'slug':'adventure-drivers','label':study_0x2f97c9(0x523),'icon':study_0x2f97c9(0x309),'src':study_0x2f97c9(0x45b),'categories':['D.r.i.v.i.n.g']},{'slug':study_0x2f97c9(0x68d),'label':'Ages\x20Of\x20Conflict','icon':'img/21262.webp','src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/ages-of-conflict/','categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x5f7),'label':study_0x2f97c9(0x1f7),'icon':study_0x2f97c9(0x1cf),'src':study_0x2f97c9(0x63e),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x55a),'label':study_0x2f97c9(0x5a0),'icon':study_0x2f97c9(0x40e),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/amidst-the-clouds/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x3c0),'label':study_0x2f97c9(0x631),'icon':'img/21265.webp','src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/among-us/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x5d1),'label':study_0x2f97c9(0x25d),'icon':study_0x2f97c9(0x548),'src':study_0x2f97c9(0x2c9),'categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x44b),'label':study_0x2f97c9(0x3f7),'icon':study_0x2f97c9(0x371),'src':study_0x2f97c9(0x637),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x5b6),'label':study_0x2f97c9(0x665),'icon':study_0x2f97c9(0x273),'src':study_0x2f97c9(0x344),'categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x4dc),'label':'Arcane\x20Archer','icon':'img/21269.webp','src':study_0x2f97c9(0x3d3),'categories':[study_0x2f97c9(0x32b)]},{'slug':'avalanche','label':study_0x2f97c9(0x666),'icon':study_0x2f97c9(0x4a8),'src':study_0x2f97c9(0x2fc),'categories':[study_0x2f97c9(0x32b)]},{'slug':'awesome-tanks-2','label':study_0x2f97c9(0x5d9),'icon':'img/21271.webp','src':'https://4yqt7wrhtx-ship-it.github.io/action-games/awesome-tanks-2/','categories':[study_0x2f97c9(0x32b)]},{'slug':'axis-football-league','label':'Axis\x20Football\x20League','icon':study_0x2f97c9(0x49f),'src':study_0x2f97c9(0x63f),'categories':[study_0x2f97c9(0x23e)]},{'slug':'backrooms','label':study_0x2f97c9(0x4c9),'icon':study_0x2f97c9(0x652),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/backrooms/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x296),'label':study_0x2f97c9(0x32d),'icon':study_0x2f97c9(0x458),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/backrooms-2d/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x65a),'label':'Bacon\x20May\x20Die','icon':study_0x2f97c9(0x304),'src':study_0x2f97c9(0x283),'categories':[study_0x2f97c9(0x32b)]},{'slug':'bad-ice-cream','label':study_0x2f97c9(0x521),'icon':'img/21276.webp','src':study_0x2f97c9(0x5e6),'categories':[study_0x2f97c9(0x265)]},{'slug':'bad-ice-cream-2','label':'Bad\x20Ice\x20Cream\x202','icon':study_0x2f97c9(0x694),'src':study_0x2f97c9(0x259),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x622),'label':study_0x2f97c9(0x1f8),'icon':study_0x2f97c9(0x595),'src':study_0x2f97c9(0x292),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x3a3),'label':study_0x2f97c9(0x23b),'icon':study_0x2f97c9(0x50d),'src':study_0x2f97c9(0x4eb),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x5c9),'label':'Ball\x20Sort\x20Halloween','icon':'img/21280.webp','src':study_0x2f97c9(0x4c4),'categories':['S.t.ra.te.g.y']},{'slug':'ball-sort-puzzle','label':'Ball\x20Sort\x20Puzzle','icon':study_0x2f97c9(0x41b),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/ball-sort-puzzle/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x653),'label':study_0x2f97c9(0x335),'icon':study_0x2f97c9(0x2e6),'src':study_0x2f97c9(0x3d9),'categories':[study_0x2f97c9(0x23e)]},{'slug':study_0x2f97c9(0x1db),'label':study_0x2f97c9(0x358),'icon':'img/21283.webp','src':study_0x2f97c9(0x3b9),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x250),'label':'Bally','icon':study_0x2f97c9(0x5c5),'src':study_0x2f97c9(0x4a6),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x699),'label':study_0x2f97c9(0x32f),'icon':study_0x2f97c9(0x3cd),'src':study_0x2f97c9(0x607),'categories':[study_0x2f97c9(0x23e)]},{'slug':'basket-champs','label':study_0x2f97c9(0x55e),'icon':study_0x2f97c9(0x66e),'src':'https://4yqt7wrhtx-ship-it.github.io/driving-games/basket-champs/','categories':[study_0x2f97c9(0x23e)]},{'slug':study_0x2f97c9(0x565),'label':study_0x2f97c9(0x2b3),'icon':study_0x2f97c9(0x310),'src':'https://4yqt7wrhtx-ship-it.github.io/driving-games/basket-random/','categories':[study_0x2f97c9(0x23e)]},{'slug':study_0x2f97c9(0x496),'label':'Basketball\x20Stars','icon':study_0x2f97c9(0x359),'src':study_0x2f97c9(0x2ce),'categories':[study_0x2f97c9(0x23e)]},{'slug':'battleforgondor','label':'Battleforgondor','icon':'img/21289.webp','src':study_0x2f97c9(0x6b5),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x51a),'label':study_0x2f97c9(0x4e1),'icon':'img/21290.webp','src':study_0x2f97c9(0x31d),'categories':[study_0x2f97c9(0x23e)]},{'slug':study_0x2f97c9(0x6bf),'label':study_0x2f97c9(0x4cf),'icon':study_0x2f97c9(0x423),'src':study_0x2f97c9(0x554),'categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x394),'label':study_0x2f97c9(0x1d0),'icon':study_0x2f97c9(0x6ba),'src':study_0x2f97c9(0x1fd),'categories':[study_0x2f97c9(0x661)]},{'slug':'biker-street','label':'Biker\x20Street','icon':'img/21293.webp','src':study_0x2f97c9(0x399),'categories':[study_0x2f97c9(0x23e)]},{'slug':study_0x2f97c9(0x347),'label':study_0x2f97c9(0x32e),'icon':'img/21294.webp','src':study_0x2f97c9(0x21b),'categories':[study_0x2f97c9(0x661)]},{'slug':'bitlife','label':study_0x2f97c9(0x2fb),'icon':study_0x2f97c9(0x4f0),'src':study_0x2f97c9(0x66c),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x663),'label':study_0x2f97c9(0x55b),'icon':'img/21296.webp','src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/blacholesquare/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x58c),'label':'Blackknight','icon':study_0x2f97c9(0x1dc),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/blackknight/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x357),'label':study_0x2f97c9(0x33d),'icon':study_0x2f97c9(0x4e8),'src':study_0x2f97c9(0x4a1),'categories':[study_0x2f97c9(0x265)]},{'slug':'bloonstd','label':study_0x2f97c9(0x430),'icon':study_0x2f97c9(0x4c7),'src':study_0x2f97c9(0x4bd),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x5b9),'label':study_0x2f97c9(0x503),'icon':study_0x2f97c9(0x438),'src':study_0x2f97c9(0x66d),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x21f),'label':study_0x2f97c9(0x6cc),'icon':study_0x2f97c9(0x5df),'src':study_0x2f97c9(0x363),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x264),'label':study_0x2f97c9(0x564),'icon':study_0x2f97c9(0x37f),'src':study_0x2f97c9(0x640),'categories':[study_0x2f97c9(0x265)]},{'slug':'blumgi-rocket','label':study_0x2f97c9(0x39d),'icon':study_0x2f97c9(0x65e),'src':study_0x2f97c9(0x286),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x277),'label':study_0x2f97c9(0x1cd),'icon':'img/21304.webp','src':study_0x2f97c9(0x2f1),'categories':[study_0x2f97c9(0x32b)]},{'slug':'bob-the-robber-4','label':study_0x2f97c9(0x4ee),'icon':'img/21305.webp','src':study_0x2f97c9(0x1af),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x1fb),'label':study_0x2f97c9(0x486),'icon':study_0x2f97c9(0x1ae),'src':study_0x2f97c9(0x645),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x47a),'label':study_0x2f97c9(0x68f),'icon':study_0x2f97c9(0x1a8),'src':study_0x2f97c9(0x1ed),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x2b2),'label':'Bottle\x20Flip','icon':study_0x2f97c9(0x67f),'src':study_0x2f97c9(0x6b0),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x1d4),'label':'Bottle\x20Flip\x203d','icon':study_0x2f97c9(0x29b),'src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/bottle-flip-3d/','categories':['Casual']},{'slug':study_0x2f97c9(0x48a),'label':study_0x2f97c9(0x35d),'icon':study_0x2f97c9(0x68a),'src':study_0x2f97c9(0x4b0),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x20b),'label':study_0x2f97c9(0x207),'icon':study_0x2f97c9(0x407),'src':study_0x2f97c9(0x642),'categories':[study_0x2f97c9(0x32b)]},{'slug':'boxhead2play','label':'Boxhead2play','icon':study_0x2f97c9(0x519),'src':study_0x2f97c9(0x372),'categories':[study_0x2f97c9(0x32b)]},{'slug':'boxing-random','label':study_0x2f97c9(0x3e8),'icon':study_0x2f97c9(0x596),'src':'https://4yqt7wrhtx-ship-it.github.io/driving-games/boxing-random/','categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x576),'label':'Breakingthebank','icon':study_0x2f97c9(0x2fd),'src':study_0x2f97c9(0x24e),'categories':[study_0x2f97c9(0x265)]},{'slug':'btts','label':study_0x2f97c9(0x51b),'icon':'img/21315.webp','src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/btts/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x4c0),'label':study_0x2f97c9(0x5e7),'icon':study_0x2f97c9(0x38e),'src':study_0x2f97c9(0x3f8),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x3fb),'label':study_0x2f97c9(0x54a),'icon':study_0x2f97c9(0x381),'src':study_0x2f97c9(0x3e5),'categories':[study_0x2f97c9(0x32b)]},{'slug':'burnin-rubber-5xs','label':'Burnin\x20Rubber\x205xs','icon':study_0x2f97c9(0x2c4),'src':study_0x2f97c9(0x555),'categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x2ed),'label':'Burrito\x20Bison','icon':study_0x2f97c9(0x504),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/burrito-bison/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x670),'label':study_0x2f97c9(0x28a),'icon':study_0x2f97c9(0x34b),'src':study_0x2f97c9(0x1c3),'categories':['A.c.t.io.n']},{'slug':'cannon-basketball-4','label':study_0x2f97c9(0x28d),'icon':study_0x2f97c9(0x49c),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/cannon-basketball-4/','categories':[study_0x2f97c9(0x23e)]},{'slug':study_0x2f97c9(0x6a7),'label':'Canyondefense','icon':'img/21322.webp','src':study_0x2f97c9(0x1ff),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x563),'label':'Car\x20Rush','icon':'img/21323.webp','src':study_0x2f97c9(0x4ac),'categories':[study_0x2f97c9(0x3da)]},{'slug':'cars-simulator','label':study_0x2f97c9(0x370),'icon':study_0x2f97c9(0x6cb),'src':study_0x2f97c9(0x48f),'categories':[study_0x2f97c9(0x3da)]},{'slug':'cartoon-mini-racing','label':study_0x2f97c9(0x2e3),'icon':study_0x2f97c9(0x500),'src':'https://4yqt7wrhtx-ship-it.github.io/driving-games/cartoon-mini-racing/','categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x5a8),'label':study_0x2f97c9(0x56c),'icon':study_0x2f97c9(0x1de),'src':study_0x2f97c9(0x3c3),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x327),'label':'Champion\x20Island','icon':study_0x2f97c9(0x4ad),'src':study_0x2f97c9(0x2dd),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x3ff),'label':study_0x2f97c9(0x6a5),'icon':study_0x2f97c9(0x6c2),'src':study_0x2f97c9(0x24f),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x698),'label':study_0x2f97c9(0x3f1),'icon':study_0x2f97c9(0x297),'src':study_0x2f97c9(0x6bc),'categories':[study_0x2f97c9(0x265)]},{'slug':'circlo','label':study_0x2f97c9(0x6c3),'icon':study_0x2f97c9(0x2d4),'src':study_0x2f97c9(0x546),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x68e),'label':study_0x2f97c9(0x364),'icon':'img/21331.webp','src':study_0x2f97c9(0x3f6),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x392),'label':study_0x2f97c9(0x44f),'icon':study_0x2f97c9(0x2a1),'src':study_0x2f97c9(0x1c1),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x3c6),'label':study_0x2f97c9(0x35b),'icon':'img/21333.webp','src':study_0x2f97c9(0x2a4),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x4b7),'label':study_0x2f97c9(0x287),'icon':study_0x2f97c9(0x61a),'src':study_0x2f97c9(0x69a),'categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x566),'label':study_0x2f97c9(0x680),'icon':'img/21335.webp','src':study_0x2f97c9(0x295),'categories':[study_0x2f97c9(0x265)]},{'slug':'connect3','label':'Connect3','icon':study_0x2f97c9(0x2f8),'src':study_0x2f97c9(0x60c),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x57d),'label':'Cookie\x20Clicker','icon':'img/21337.webp','src':study_0x2f97c9(0x547),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x689),'label':study_0x2f97c9(0x5c6),'icon':'img/21338.webp','src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/core-ball/','categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x1a7),'label':study_0x2f97c9(0x3b0),'icon':'img/21339.webp','src':study_0x2f97c9(0x54d),'categories':[study_0x2f97c9(0x32b)]},{'slug':'crazy-cars','label':study_0x2f97c9(0x4b5),'icon':study_0x2f97c9(0x3d4),'src':'https://4yqt7wrhtx-ship-it.github.io/driving-games/crazy-cars/','categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x5e3),'label':study_0x2f97c9(0x272),'icon':'img/21341.webp','src':study_0x2f97c9(0x1df),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x2ea),'label':study_0x2f97c9(0x1be),'icon':'img/21342.webp','src':study_0x2f97c9(0x247),'categories':[study_0x2f97c9(0x32b)]},{'slug':'crossyroad','label':study_0x2f97c9(0x56b),'icon':study_0x2f97c9(0x507),'src':study_0x2f97c9(0x319),'categories':[study_0x2f97c9(0x265)]},{'slug':'csgo-clicker','label':study_0x2f97c9(0x533),'icon':study_0x2f97c9(0x38d),'src':study_0x2f97c9(0x210),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x4cb),'label':study_0x2f97c9(0x567),'icon':'img/21345.webp','src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/ctr/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x316),'label':'Ctr\x20Holiday','icon':study_0x2f97c9(0x3be),'src':study_0x2f97c9(0x5fa),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x1c0),'label':study_0x2f97c9(0x594),'icon':study_0x2f97c9(0x659),'src':study_0x2f97c9(0x1c5),'categories':['S.t.ra.te.g.y']},{'slug':'cubefield','label':study_0x2f97c9(0x54f),'icon':study_0x2f97c9(0x56a),'src':study_0x2f97c9(0x255),'categories':[study_0x2f97c9(0x32b)]},{'slug':'dante','label':study_0x2f97c9(0x384),'icon':study_0x2f97c9(0x369),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/dante/','categories':['A.c.t.io.n']},{'slug':'dead-again','label':study_0x2f97c9(0x6ab),'icon':study_0x2f97c9(0x2ab),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/dead-again/','categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x635),'label':study_0x2f97c9(0x677),'icon':study_0x2f97c9(0x320),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/deal-or-no-deal/','categories':[study_0x2f97c9(0x265)]},{'slug':'death-run-3d','label':study_0x2f97c9(0x41f),'icon':'img/21352.webp','src':study_0x2f97c9(0x4aa),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x26e),'label':study_0x2f97c9(0x27e),'icon':study_0x2f97c9(0x294),'src':study_0x2f97c9(0x536),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x4c2),'label':study_0x2f97c9(0x419),'icon':study_0x2f97c9(0x346),'src':study_0x2f97c9(0x493),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x227),'label':study_0x2f97c9(0x3ea),'icon':'img/21355.webp','src':study_0x2f97c9(0x22e),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x1ea),'label':study_0x2f97c9(0x1fc),'icon':'img/21356.webp','src':study_0x2f97c9(0x5bd),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x443),'label':study_0x2f97c9(0x613),'icon':study_0x2f97c9(0x5cb),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/doctor-acorn2/','categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x22b),'label':study_0x2f97c9(0x6af),'icon':study_0x2f97c9(0x60e),'src':study_0x2f97c9(0x3a6),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x587),'label':study_0x2f97c9(0x43d),'icon':study_0x2f97c9(0x393),'src':study_0x2f97c9(0x284),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x3c4),'label':study_0x2f97c9(0x5e1),'icon':study_0x2f97c9(0x65b),'src':study_0x2f97c9(0x274),'categories':[study_0x2f97c9(0x661)]},{'slug':'doodle-jump','label':'Doodle\x20Jump','icon':study_0x2f97c9(0x2b1),'src':study_0x2f97c9(0x5cd),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x543),'label':study_0x2f97c9(0x1fe),'icon':'img/21362.webp','src':study_0x2f97c9(0x3dc),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x53b),'label':study_0x2f97c9(0x251),'icon':study_0x2f97c9(0x44e),'src':study_0x2f97c9(0x1da),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x529),'label':study_0x2f97c9(0x281),'icon':study_0x2f97c9(0x4ef),'src':study_0x2f97c9(0x27d),'categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x2a8),'label':study_0x2f97c9(0x64e),'icon':study_0x2f97c9(0x3d7),'src':study_0x2f97c9(0x35c),'categories':[study_0x2f97c9(0x3da)]},{'slug':'drive-mad','label':study_0x2f97c9(0x4a4),'icon':'img/21366.webp','src':study_0x2f97c9(0x4b1),'categories':[study_0x2f97c9(0x3da)]},{'slug':'ducklife','label':study_0x2f97c9(0x686),'icon':study_0x2f97c9(0x2fe),'src':study_0x2f97c9(0x3ef),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x69f),'label':study_0x2f97c9(0x355),'icon':study_0x2f97c9(0x551),'src':study_0x2f97c9(0x64f),'categories':['Casual']},{'slug':study_0x2f97c9(0x4af),'label':'Ducklife\x203','icon':study_0x2f97c9(0x218),'src':study_0x2f97c9(0x303),'categories':['Casual']},{'slug':study_0x2f97c9(0x1c8),'label':study_0x2f97c9(0x4c6),'icon':'img/21370.webp','src':study_0x2f97c9(0x435),'categories':[study_0x2f97c9(0x661)]},{'slug':'dummy-never-fails','label':'Dummy\x20Never\x20Fails','icon':study_0x2f97c9(0x47d),'src':study_0x2f97c9(0x56d),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x649),'label':'Dummy\x20Never\x20Fails\x202','icon':'img/21372.webp','src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/dummy-never-fails-2/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x226),'label':'Eagle\x20Ride','icon':'img/21373.webp','src':study_0x2f97c9(0x6bd),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x5a1),'label':study_0x2f97c9(0x1c6),'icon':study_0x2f97c9(0x673),'src':study_0x2f97c9(0x506),'categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x588),'label':study_0x2f97c9(0x4c5),'icon':study_0x2f97c9(0x208),'src':study_0x2f97c9(0x68c),'categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x343),'label':study_0x2f97c9(0x2a5),'icon':study_0x2f97c9(0x29d),'src':study_0x2f97c9(0x3f5),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x354),'label':study_0x2f97c9(0x4de),'icon':study_0x2f97c9(0x5ab),'src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/eel-slap/','categories':['Casual']},{'slug':study_0x2f97c9(0x424),'label':study_0x2f97c9(0x590),'icon':'img/21378.webp','src':study_0x2f97c9(0x2b8),'categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x484),'label':study_0x2f97c9(0x28f),'icon':study_0x2f97c9(0x570),'src':study_0x2f97c9(0x1aa),'categories':[study_0x2f97c9(0x661)]},{'slug':'electron-dash','label':study_0x2f97c9(0x38f),'icon':'img/21380.webp','src':'https://4yqt7wrhtx-ship-it.github.io/action-games/electron-dash/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x427),'label':study_0x2f97c9(0x20c),'icon':study_0x2f97c9(0x386),'src':'https://4yqt7wrhtx-ship-it.github.io/driving-games/endless-truck/','categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x1d1),'label':'Endless\x20Tunnel','icon':study_0x2f97c9(0x2a6),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/endless-tunnel/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x44a),'label':study_0x2f97c9(0x2f7),'icon':study_0x2f97c9(0x3e6),'src':study_0x2f97c9(0x4dd),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x1e0),'label':'Escaping\x20Prison','icon':'img/21384.webp','src':study_0x2f97c9(0x240),'categories':[study_0x2f97c9(0x265)]},{'slug':'evil-glitch','label':'Evil\x20Glitch','icon':study_0x2f97c9(0x5e4),'src':study_0x2f97c9(0x5e9),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x365),'label':'Evolution','icon':'img/21386.webp','src':study_0x2f97c9(0x330),'categories':['S.t.ra.te.g.y']},{'slug':'exo','label':study_0x2f97c9(0x47f),'icon':study_0x2f97c9(0x26b),'src':study_0x2f97c9(0x420),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x24b),'label':study_0x2f97c9(0x47b),'icon':study_0x2f97c9(0x470),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/factoryballs/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x614),'label':study_0x2f97c9(0x608),'icon':study_0x2f97c9(0x1bb),'src':study_0x2f97c9(0x4e2),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x415),'label':study_0x2f97c9(0x242),'icon':'img/21390.webp','src':study_0x2f97c9(0x3ac),'categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x560),'label':study_0x2f97c9(0x1ec),'icon':'img/21391.webp','src':study_0x2f97c9(0x4d4),'categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x505),'label':'Fancypantsadventures','icon':study_0x2f97c9(0x4fb),'src':study_0x2f97c9(0x2e7),'categories':[study_0x2f97c9(0x32b)]},{'slug':'farm-match','label':study_0x2f97c9(0x36e),'icon':'img/21393.webp','src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/farm-match/','categories':[study_0x2f97c9(0x265)]},{'slug':'fireboywatergirlforesttemple','label':study_0x2f97c9(0x5ee),'icon':'img/21394.webp','src':'https://4yqt7wrhtx-ship-it.github.io/action-games/fireboywatergirlforesttemple/','categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x214),'label':study_0x2f97c9(0x2bf),'icon':study_0x2f97c9(0x52f),'src':study_0x2f97c9(0x4e7),'categories':['Casual']},{'slug':study_0x2f97c9(0x63d),'label':'Flappy\x20Bird','icon':study_0x2f97c9(0x3b8),'src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/flappy-bird/','categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x313),'label':'Flashtetris','icon':study_0x2f97c9(0x35f),'src':study_0x2f97c9(0x4ea),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x4a5),'label':study_0x2f97c9(0x499),'icon':study_0x2f97c9(0x1b8),'src':study_0x2f97c9(0x289),'categories':[study_0x2f97c9(0x265)]},{'slug':'fnaf','label':study_0x2f97c9(0x624),'icon':study_0x2f97c9(0x4d7),'src':study_0x2f97c9(0x26a),'categories':['A.c.t.io.n']},{'slug':'fnaw','label':study_0x2f97c9(0x1a9),'icon':study_0x2f97c9(0x49e),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/fnaw/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x2bd),'label':study_0x2f97c9(0x67a),'icon':'img/21401.webp','src':study_0x2f97c9(0x2cd),'categories':[study_0x2f97c9(0x23e)]},{'slug':study_0x2f97c9(0x390),'label':'Football\x20Legends','icon':study_0x2f97c9(0x51d),'src':study_0x2f97c9(0x1e8),'categories':['Sport']},{'slug':study_0x2f97c9(0x374),'label':'Football\x20Run','icon':study_0x2f97c9(0x3de),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/football-run/','categories':[study_0x2f97c9(0x23e)]},{'slug':study_0x2f97c9(0x2c8),'label':study_0x2f97c9(0x39e),'icon':study_0x2f97c9(0x674),'src':study_0x2f97c9(0x3e7),'categories':[study_0x2f97c9(0x23e)]},{'slug':'froggys-battle','label':'Froggys\x20Battle','icon':study_0x2f97c9(0x3b4),'src':study_0x2f97c9(0x3f3),'categories':[study_0x2f97c9(0x32b)]},{'slug':'fruit-ninja','label':study_0x2f97c9(0x434),'icon':study_0x2f97c9(0x35e),'src':study_0x2f97c9(0x4d1),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x445),'label':study_0x2f97c9(0x34f),'icon':study_0x2f97c9(0x5ae),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/frying-nemo/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x33c),'label':'Funnyshooter2','icon':study_0x2f97c9(0x36c),'src':study_0x2f97c9(0x41c),'categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x44c),'label':study_0x2f97c9(0x334),'icon':study_0x2f97c9(0x5cf),'src':study_0x2f97c9(0x2b5),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x2db),'label':study_0x2f97c9(0x5b4),'icon':study_0x2f97c9(0x2d8),'src':study_0x2f97c9(0x4ca),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x3ca),'label':study_0x2f97c9(0x44d),'icon':study_0x2f97c9(0x42b),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/generic-fishing-game/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x42c),'label':study_0x2f97c9(0x328),'icon':study_0x2f97c9(0x2e0),'src':study_0x2f97c9(0x498),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x2c1),'label':study_0x2f97c9(0x6b1),'icon':study_0x2f97c9(0x5e5),'src':study_0x2f97c9(0x562),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x325),'label':study_0x2f97c9(0x285),'icon':study_0x2f97c9(0x5c2),'src':study_0x2f97c9(0x6c6),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x57b),'label':study_0x2f97c9(0x3a4),'icon':'img/21415.webp','src':study_0x2f97c9(0x59a),'categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x5ea),'label':study_0x2f97c9(0x5c1),'icon':study_0x2f97c9(0x495),'src':study_0x2f97c9(0x241),'categories':[study_0x2f97c9(0x32b)]},{'slug':'getting-over-it','label':'Getting\x20Over\x20It','icon':'img/21417.webp','src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/getting-over-it/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x308),'label':'Gimme\x20The\x20Airpod','icon':study_0x2f97c9(0x1b5),'src':study_0x2f97c9(0x5bb),'categories':[study_0x2f97c9(0x32b)]},{'slug':'gladihoppers','label':study_0x2f97c9(0x24d),'icon':study_0x2f97c9(0x6a8),'src':study_0x2f97c9(0x200),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x636),'label':study_0x2f97c9(0x2f5),'icon':study_0x2f97c9(0x2ef),'src':study_0x2f97c9(0x28c),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x541),'label':study_0x2f97c9(0x3c1),'icon':study_0x2f97c9(0x2bb),'src':study_0x2f97c9(0x39b),'categories':['Sport']},{'slug':study_0x2f97c9(0x4cc),'label':study_0x2f97c9(0x311),'icon':study_0x2f97c9(0x3d1),'src':study_0x2f97c9(0x5be),'categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x5a3),'label':study_0x2f97c9(0x1f1),'icon':'img/21423.webp','src':study_0x2f97c9(0x5e8),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x376),'label':study_0x2f97c9(0x5b7),'icon':study_0x2f97c9(0x41a),'src':study_0x2f97c9(0x3f2),'categories':[study_0x2f97c9(0x265)]},{'slug':'gravity-soccer','label':study_0x2f97c9(0x278),'icon':study_0x2f97c9(0x37d),'src':study_0x2f97c9(0x231),'categories':[study_0x2f97c9(0x265)]},{'slug':'greybox','label':'Greybox','icon':study_0x2f97c9(0x675),'src':study_0x2f97c9(0x601),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x269),'label':study_0x2f97c9(0x260),'icon':'img/21427.webp','src':study_0x2f97c9(0x1bd),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x356),'label':study_0x2f97c9(0x25f),'icon':study_0x2f97c9(0x351),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/gswitch/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x2ca),'label':study_0x2f97c9(0x442),'icon':study_0x2f97c9(0x215),'src':study_0x2f97c9(0x5bc),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x6aa),'label':'Gswitch\x203','icon':study_0x2f97c9(0x62c),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/gswitch-3/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x402),'label':study_0x2f97c9(0x54e),'icon':study_0x2f97c9(0x282),'src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/guess-kitty/','categories':[study_0x2f97c9(0x661)]},{'slug':'gun-mayhem','label':'Gun\x20Mayhem','icon':study_0x2f97c9(0x5c3),'src':study_0x2f97c9(0x64d),'categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x4c3),'label':study_0x2f97c9(0x2d5),'icon':study_0x2f97c9(0x5d3),'src':study_0x2f97c9(0x33f),'categories':[study_0x2f97c9(0x32b)]},{'slug':'gun-mayhem-redux','label':'Gun\x20Mayhem\x20Redux','icon':study_0x2f97c9(0x5dc),'src':study_0x2f97c9(0x406),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x522),'label':study_0x2f97c9(0x684),'icon':'img/21435.webp','src':study_0x2f97c9(0x2d2),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x3cb),'label':study_0x2f97c9(0x367),'icon':study_0x2f97c9(0x3d0),'src':study_0x2f97c9(0x1d7),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x46e),'label':study_0x2f97c9(0x540),'icon':study_0x2f97c9(0x66b),'src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/hackertype/','categories':['Casual']},{'slug':study_0x2f97c9(0x4bc),'label':study_0x2f97c9(0x59c),'icon':study_0x2f97c9(0x1d9),'src':study_0x2f97c9(0x457),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x40c),'label':'Hanger','icon':'img/21439.webp','src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/hanger/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x5eb),'label':study_0x2f97c9(0x1e1),'icon':'img/21440.webp','src':'https://4yqt7wrhtx-ship-it.github.io/action-games/happy-hop/','categories':[study_0x2f97c9(0x32b)]},{'slug':'hba','label':'Hba','icon':study_0x2f97c9(0x525),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/hba/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x60f),'label':study_0x2f97c9(0x1e9),'icon':study_0x2f97c9(0x629),'src':'https://4yqt7wrhtx-ship-it.github.io/driving-games/head-soccer/','categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x1e2),'label':study_0x2f97c9(0x378),'icon':study_0x2f97c9(0x276),'src':study_0x2f97c9(0x2dc),'categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x293),'label':study_0x2f97c9(0x433),'icon':'img/21444.webp','src':study_0x2f97c9(0x5ef),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x455),'label':'Hexempire','icon':study_0x2f97c9(0x4df),'src':study_0x2f97c9(0x43b),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x687),'label':'Hextris','icon':study_0x2f97c9(0x638),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/hextris/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x235),'label':study_0x2f97c9(0x657),'icon':study_0x2f97c9(0x4b9),'src':study_0x2f97c9(0x568),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x2eb),'label':study_0x2f97c9(0x655),'icon':study_0x2f97c9(0x2da),'src':study_0x2f97c9(0x31c),'categories':[study_0x2f97c9(0x661)]},{'slug':'hungry-lamu','label':study_0x2f97c9(0x3bd),'icon':study_0x2f97c9(0x2e1),'src':study_0x2f97c9(0x4f2),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x21e),'label':study_0x2f97c9(0x549),'icon':'img/21450.webp','src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/icy-head-2/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x4f5),'label':study_0x2f97c9(0x604),'icon':'img/21451.webp','src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/icy-head-3/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x4cd),'label':study_0x2f97c9(0x696),'icon':study_0x2f97c9(0x45e),'src':study_0x2f97c9(0x66f),'categories':['D.r.i.v.i.n.g']},{'slug':study_0x2f97c9(0x20d),'label':study_0x2f97c9(0x1c4),'icon':'img/21453.webp','src':study_0x2f97c9(0x42a),'categories':[study_0x2f97c9(0x661)]},{'slug':'idle-mining','label':study_0x2f97c9(0x33a),'icon':study_0x2f97c9(0x6a2),'src':study_0x2f97c9(0x23f),'categories':['Casual']},{'slug':study_0x2f97c9(0x603),'label':study_0x2f97c9(0x487),'icon':'img/21455.webp','src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/idle-restaurants/','categories':['Casual']},{'slug':study_0x2f97c9(0x53a),'label':study_0x2f97c9(0x515),'icon':'img/21456.webp','src':study_0x2f97c9(0x290),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x49b),'label':study_0x2f97c9(0x5fd),'icon':'img/21457.webp','src':study_0x2f97c9(0x62d),'categories':[study_0x2f97c9(0x265)]},{'slug':'infinite-soccer','label':study_0x2f97c9(0x658),'icon':'img/21458.webp','src':'https://4yqt7wrhtx-ship-it.github.io/action-games/infinite-soccer/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x492),'label':study_0x2f97c9(0x27a),'icon':study_0x2f97c9(0x682),'src':study_0x2f97c9(0x1b1),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x5fe),'label':study_0x2f97c9(0x5f2),'icon':'img/21460.webp','src':'https://4yqt7wrhtx-ship-it.github.io/action-games/jetpack-joyride/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x5dd),'label':study_0x2f97c9(0x258),'icon':study_0x2f97c9(0x307),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/jewels-blitz-5/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x545),'label':study_0x2f97c9(0x428),'icon':study_0x2f97c9(0x2a9),'src':study_0x2f97c9(0x429),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x267),'label':study_0x2f97c9(0x516),'icon':study_0x2f97c9(0x597),'src':study_0x2f97c9(0x361),'categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x630),'label':study_0x2f97c9(0x350),'icon':study_0x2f97c9(0x326),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/kitchen-gun-game/','categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x4d8),'label':study_0x2f97c9(0x3a7),'icon':study_0x2f97c9(0x38c),'src':study_0x2f97c9(0x6a6),'categories':[study_0x2f97c9(0x661)]},{'slug':'knife-master','label':study_0x2f97c9(0x615),'icon':study_0x2f97c9(0x39c),'src':study_0x2f97c9(0x3a8),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x20a),'label':study_0x2f97c9(0x59d),'icon':study_0x2f97c9(0x4b3),'src':study_0x2f97c9(0x55f),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x6b8),'label':study_0x2f97c9(0x1dd),'icon':study_0x2f97c9(0x575),'src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/learntofly/','categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x5a7),'label':study_0x2f97c9(0x1b4),'icon':'img/21469.webp','src':study_0x2f97c9(0x61f),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x2df),'label':study_0x2f97c9(0x5b3),'icon':study_0x2f97c9(0x1d8),'src':study_0x2f97c9(0x34d),'categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x5f0),'label':study_0x2f97c9(0x3f9),'icon':study_0x2f97c9(0x3ae),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/marbles-sorting/','categories':[study_0x2f97c9(0x265)]},{'slug':'mario','label':study_0x2f97c9(0x53d),'icon':study_0x2f97c9(0x426),'src':study_0x2f97c9(0x1ba),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x2ba),'label':study_0x2f97c9(0x53e),'icon':study_0x2f97c9(0x488),'src':study_0x2f97c9(0x2c6),'categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x206),'label':study_0x2f97c9(0x25b),'icon':study_0x2f97c9(0x527),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/matrixrampage/','categories':[study_0x2f97c9(0x32b)]},{'slug':'meme2048','label':study_0x2f97c9(0x425),'icon':'img/21475.webp','src':study_0x2f97c9(0x4ba),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x5b2),'label':study_0x2f97c9(0x606),'icon':study_0x2f97c9(0x58e),'src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/merge-round-racers/','categories':['Casual']},{'slug':'mineblocks','label':study_0x2f97c9(0x59b),'icon':study_0x2f97c9(0x21d),'src':study_0x2f97c9(0x6ae),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x610),'label':study_0x2f97c9(0x414),'icon':study_0x2f97c9(0x220),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/minecraft-15/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x678),'label':study_0x2f97c9(0x353),'icon':study_0x2f97c9(0x391),'src':study_0x2f97c9(0x5d0),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x380),'label':study_0x2f97c9(0x456),'icon':study_0x2f97c9(0x246),'src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/minecraft-case/','categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x481),'label':study_0x2f97c9(0x4e9),'icon':study_0x2f97c9(0x648),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/minecraft-classic/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x219),'label':study_0x2f97c9(0x256),'icon':study_0x2f97c9(0x3fd),'src':study_0x2f97c9(0x26c),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x667),'label':'Minesweeper','icon':study_0x2f97c9(0x275),'src':study_0x2f97c9(0x2f3),'categories':[study_0x2f97c9(0x265)]},{'slug':'miniputt','label':study_0x2f97c9(0x224),'icon':study_0x2f97c9(0x474),'src':study_0x2f97c9(0x30c),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x1ac),'label':study_0x2f97c9(0x40b),'icon':'img/21485.webp','src':study_0x2f97c9(0x1e4),'categories':[study_0x2f97c9(0x32b)]},{'slug':'money-movers','label':study_0x2f97c9(0x40f),'icon':study_0x2f97c9(0x1d3),'src':study_0x2f97c9(0x67b),'categories':[study_0x2f97c9(0x265)]},{'slug':'money-movers-2','label':study_0x2f97c9(0x1ee),'icon':'img/21487.webp','src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/money-movers-2/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x3fe),'label':study_0x2f97c9(0x2c7),'icon':study_0x2f97c9(0x5ed),'src':study_0x2f97c9(0x5c0),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x6a0),'label':'Monster\x20Truck\x20Destroyer','icon':study_0x2f97c9(0x632),'src':study_0x2f97c9(0x63c),'categories':['D.r.i.v.i.n.g']},{'slug':study_0x2f97c9(0x1f4),'label':study_0x2f97c9(0x3db),'icon':study_0x2f97c9(0x4db),'src':study_0x2f97c9(0x559),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x514),'label':study_0x2f97c9(0x5f1),'icon':study_0x2f97c9(0x239),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/motox3m-pool/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x340),'label':study_0x2f97c9(0x43a),'icon':'img/21492.webp','src':'https://4yqt7wrhtx-ship-it.github.io/action-games/motox3m-spooky/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x202),'label':'Motox3m\x20Winter','icon':'img/21493.webp','src':study_0x2f97c9(0x229),'categories':['A.c.t.io.n']},{'slug':'motox3m2','label':study_0x2f97c9(0x472),'icon':study_0x2f97c9(0x4d6),'src':study_0x2f97c9(0x3b7),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x5cc),'label':study_0x2f97c9(0x5db),'icon':study_0x2f97c9(0x478),'src':'https://4yqt7wrhtx-ship-it.github.io/driving-games/moving-truck/','categories':['D.r.i.v.i.n.g']},{'slug':study_0x2f97c9(0x612),'label':study_0x2f97c9(0x58b),'icon':study_0x2f97c9(0x1c9),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/mr-bullet/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x664),'label':'Mutazone','icon':study_0x2f97c9(0x695),'src':study_0x2f97c9(0x431),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x305),'label':study_0x2f97c9(0x2c2),'icon':study_0x2f97c9(0x473),'src':study_0x2f97c9(0x3bb),'categories':[study_0x2f97c9(0x265)]},{'slug':'n-gon','label':study_0x2f97c9(0x31e),'icon':study_0x2f97c9(0x6b3),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/n-gon/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x4a3),'label':'Ninja\x20Cat','icon':study_0x2f97c9(0x3a1),'src':study_0x2f97c9(0x511),'categories':[study_0x2f97c9(0x265)]},{'slug':'ninjavsevilcorp','label':study_0x2f97c9(0x1f6),'icon':study_0x2f97c9(0x669),'src':study_0x2f97c9(0x338),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x4a7),'label':study_0x2f97c9(0x440),'icon':study_0x2f97c9(0x584),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/ns-shaft/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x662),'label':study_0x2f97c9(0x234),'icon':study_0x2f97c9(0x6cd),'src':study_0x2f97c9(0x288),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x517),'label':study_0x2f97c9(0x3f4),'icon':study_0x2f97c9(0x5ec),'src':study_0x2f97c9(0x1b6),'categories':[study_0x2f97c9(0x32b)]},{'slug':'ohio-fortnite','label':study_0x2f97c9(0x450),'icon':study_0x2f97c9(0x3ee),'src':study_0x2f97c9(0x27b),'categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x314),'label':study_0x2f97c9(0x462),'icon':study_0x2f97c9(0x544),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/om-bounce/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x641),'label':study_0x2f97c9(0x39f),'icon':study_0x2f97c9(0x3ab),'src':study_0x2f97c9(0x4f7),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x42f),'label':study_0x2f97c9(0x485),'icon':study_0x2f97c9(0x67d),'src':study_0x2f97c9(0x302),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x4e0),'label':study_0x2f97c9(0x4b4),'icon':study_0x2f97c9(0x3b3),'src':study_0x2f97c9(0x2e9),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x1e3),'label':'Pacman','icon':study_0x2f97c9(0x48b),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/pacman/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x25c),'label':study_0x2f97c9(0x4c1),'icon':study_0x2f97c9(0x1eb),'src':study_0x2f97c9(0x4d2),'categories':['S.t.ra.te.g.y']},{'slug':'pandemic2','label':study_0x2f97c9(0x685),'icon':study_0x2f97c9(0x592),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/pandemic2/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x5ff),'label':'Papa\x20Cherry\x20Saga','icon':study_0x2f97c9(0x69c),'src':study_0x2f97c9(0x2b9),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x22d),'label':'Papas\x20Bake','icon':'img/21514.webp','src':study_0x2f97c9(0x42d),'categories':['Casual']},{'slug':study_0x2f97c9(0x280),'label':'Papas\x20Cheese','icon':'img/21515.webp','src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-cheese/','categories':[study_0x2f97c9(0x661)]},{'slug':'papas-cupcake','label':study_0x2f97c9(0x32c),'icon':study_0x2f97c9(0x4ab),'src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-cupcake/','categories':['Casual']},{'slug':study_0x2f97c9(0x253),'label':study_0x2f97c9(0x63a),'icon':'img/21517.webp','src':study_0x2f97c9(0x4f8),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x454),'label':study_0x2f97c9(0x223),'icon':study_0x2f97c9(0x480),'src':study_0x2f97c9(0x660),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x585),'label':study_0x2f97c9(0x69e),'icon':'img/21519.webp','src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-hotdog/','categories':[study_0x2f97c9(0x661)]},{'slug':'papas-pancake','label':'Papas\x20Pancake','icon':study_0x2f97c9(0x512),'src':study_0x2f97c9(0x5c7),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x35a),'label':study_0x2f97c9(0x5b0),'icon':study_0x2f97c9(0x5bf),'src':study_0x2f97c9(0x502),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x45c),'label':study_0x2f97c9(0x36b),'icon':study_0x2f97c9(0x422),'src':study_0x2f97c9(0x439),'categories':['Casual']},{'slug':study_0x2f97c9(0x268),'label':study_0x2f97c9(0x1cb),'icon':study_0x2f97c9(0x4d3),'src':study_0x2f97c9(0x38b),'categories':['Casual']},{'slug':study_0x2f97c9(0x3ed),'label':study_0x2f97c9(0x4f1),'icon':study_0x2f97c9(0x46c),'src':study_0x2f97c9(0x5ca),'categories':[study_0x2f97c9(0x661)]},{'slug':'papas-wing','label':'Papas\x20Wing','icon':study_0x2f97c9(0x418),'src':study_0x2f97c9(0x4e5),'categories':['Casual']},{'slug':study_0x2f97c9(0x437),'label':study_0x2f97c9(0x27f),'icon':study_0x2f97c9(0x690),'src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/papasburgeria/','categories':['Casual']},{'slug':'papaspizzaria','label':'Papaspizzaria','icon':study_0x2f97c9(0x2be),'src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/papaspizzaria/','categories':['Casual']},{'slug':study_0x2f97c9(0x5aa),'label':'Paper\x203','icon':study_0x2f97c9(0x348),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/paper-3/','categories':[study_0x2f97c9(0x32b)]},{'slug':'paper-minecraft','label':study_0x2f97c9(0x3ad),'icon':'img/21529.webp','src':study_0x2f97c9(0x52d),'categories':['A.c.t.io.n']},{'slug':'paperio2','label':'Paperio2','icon':'img/21530.webp','src':'https://4yqt7wrhtx-ship-it.github.io/action-games/paperio2/','categories':[study_0x2f97c9(0x32b)]},{'slug':'papery-planes','label':'Papery\x20Planes','icon':'img/21531.webp','src':study_0x2f97c9(0x2aa),'categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x609),'label':study_0x2f97c9(0x6ac),'icon':study_0x2f97c9(0x412),'src':study_0x2f97c9(0x401),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x491),'label':'Parking\x20Fury','icon':study_0x2f97c9(0x3c5),'src':study_0x2f97c9(0x2cc),'categories':['D.r.i.v.i.n.g']},{'slug':study_0x2f97c9(0x4d9),'label':'Parking\x20Fury\x202','icon':study_0x2f97c9(0x65d),'src':study_0x2f97c9(0x556),'categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x3bf),'label':'Parking\x20Fury\x203','icon':'img/21535.webp','src':study_0x2f97c9(0x3f0),'categories':['D.r.i.v.i.n.g']},{'slug':study_0x2f97c9(0x271),'label':'Particle\x20Clicker','icon':study_0x2f97c9(0x463),'src':study_0x2f97c9(0x29f),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x30b),'label':'Pcraft','icon':study_0x2f97c9(0x1d6),'src':study_0x2f97c9(0x466),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x41d),'label':study_0x2f97c9(0x2bc),'icon':study_0x2f97c9(0x5f3),'src':study_0x2f97c9(0x389),'categories':['Sport']},{'slug':study_0x2f97c9(0x4f3),'label':study_0x2f97c9(0x531),'icon':study_0x2f97c9(0x50b),'src':study_0x2f97c9(0x2f0),'categories':[study_0x2f97c9(0x23e)]},{'slug':study_0x2f97c9(0x5ad),'label':study_0x2f97c9(0x31f),'icon':study_0x2f97c9(0x291),'src':study_0x2f97c9(0x222),'categories':[study_0x2f97c9(0x23e)]},{'slug':'pixel-gun-survival','label':study_0x2f97c9(0x3af),'icon':study_0x2f97c9(0x4bb),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/pixel-gun-survival/','categories':[study_0x2f97c9(0x32b)]},{'slug':'pixel-smash-duels','label':study_0x2f97c9(0x238),'icon':study_0x2f97c9(0x5d4),'src':study_0x2f97c9(0x201),'categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x383),'label':'Pizza\x20Tower','icon':'img/21543.webp','src':study_0x2f97c9(0x530),'categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x204),'label':'Plants\x20Vs\x20Zombies','icon':study_0x2f97c9(0x668),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/plants-vs-zombies/','categories':['S.t.ra.te.g.y']},{'slug':'pokemon-emerald','label':study_0x2f97c9(0x1e6),'icon':study_0x2f97c9(0x524),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/pokemon-emerald/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x639),'label':study_0x2f97c9(0x4e6),'icon':'img/21546.webp','src':study_0x2f97c9(0x3d6),'categories':[study_0x2f97c9(0x32b)]},{'slug':'pokemon-firered','label':study_0x2f97c9(0x4a2),'icon':study_0x2f97c9(0x4ff),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/pokemon-firered/','categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x5a5),'label':study_0x2f97c9(0x60b),'icon':study_0x2f97c9(0x602),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/polybranch/','categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x1f3),'label':study_0x2f97c9(0x1ce),'icon':study_0x2f97c9(0x3e9),'src':study_0x2f97c9(0x61c),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x1cc),'label':'Pou','icon':study_0x2f97c9(0x5b1),'src':study_0x2f97c9(0x447),'categories':[study_0x2f97c9(0x661)]},{'slug':'protektor','label':study_0x2f97c9(0x513),'icon':study_0x2f97c9(0x446),'src':study_0x2f97c9(0x6a3),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x538),'label':'Pudding\x20Monster','icon':study_0x2f97c9(0x34a),'src':study_0x2f97c9(0x368),'categories':[study_0x2f97c9(0x265)]},{'slug':'push-the-square','label':'Push\x20The\x20Square','icon':study_0x2f97c9(0x643),'src':study_0x2f97c9(0x5a6),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x324),'label':study_0x2f97c9(0x3e4),'icon':'img/21554.webp','src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/push-your-luck/','categories':[study_0x2f97c9(0x265)]},{'slug':'rabbit-samurai','label':study_0x2f97c9(0x26d),'icon':'img/21555.webp','src':study_0x2f97c9(0x248),'categories':['S.t.ra.te.g.y']},{'slug':'rabbit-samurai2','label':'Rabbit\x20Samurai2','icon':study_0x2f97c9(0x574),'src':study_0x2f97c9(0x25e),'categories':[study_0x2f97c9(0x265)]},{'slug':'racing-monster-truck','label':study_0x2f97c9(0x693),'icon':'img/21557.webp','src':study_0x2f97c9(0x30e),'categories':[study_0x2f97c9(0x3da)]},{'slug':'retro-bowl','label':study_0x2f97c9(0x69d),'icon':'img/21558.webp','src':study_0x2f97c9(0x228),'categories':['Sport']},{'slug':'retro-bowl-college','label':study_0x2f97c9(0x379),'icon':'img/21559.webp','src':'https://4yqt7wrhtx-ship-it.github.io/driving-games/retro-bowl-college/','categories':[study_0x2f97c9(0x23e)]},{'slug':study_0x2f97c9(0x262),'label':study_0x2f97c9(0x3eb),'icon':study_0x2f97c9(0x1c2),'src':study_0x2f97c9(0x4fe),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x321),'label':study_0x2f97c9(0x30a),'icon':study_0x2f97c9(0x6a9),'src':study_0x2f97c9(0x526),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x3b6),'label':'Riddleschool3','icon':'img/21562.webp','src':study_0x2f97c9(0x537),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x3aa),'label':study_0x2f97c9(0x2d1),'icon':study_0x2f97c9(0x4ce),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/riddleschool4/','categories':[study_0x2f97c9(0x265)]},{'slug':'riddleschool5','label':study_0x2f97c9(0x36f),'icon':study_0x2f97c9(0x382),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/riddleschool5/','categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x3bc),'label':study_0x2f97c9(0x2ad),'icon':'img/21565.webp','src':study_0x2f97c9(0x48c),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x398),'label':'Riddletransfer2','icon':'img/21566.webp','src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/riddletransfer2/','categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x589),'label':study_0x2f97c9(0x4f4),'icon':study_0x2f97c9(0x47e),'src':study_0x2f97c9(0x243),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x36a),'label':study_0x2f97c9(0x52b),'icon':'img/21568.webp','src':'https://4yqt7wrhtx-ship-it.github.io/action-games/rolling-forests/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x518),'label':'Rolly\x20Vortex','icon':study_0x2f97c9(0x550),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/rolly-vortex/','categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x535),'label':study_0x2f97c9(0x61b),'icon':study_0x2f97c9(0x58d),'src':study_0x2f97c9(0x676),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x4fa),'label':study_0x2f97c9(0x3fa),'icon':study_0x2f97c9(0x2d0),'src':study_0x2f97c9(0x1f9),'categories':[study_0x2f97c9(0x265)]},{'slug':'run-2','label':study_0x2f97c9(0x257),'icon':study_0x2f97c9(0x501),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/run-2/','categories':[study_0x2f97c9(0x32b)]},{'slug':'run-3-space','label':study_0x2f97c9(0x46a),'icon':study_0x2f97c9(0x261),'src':study_0x2f97c9(0x34e),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x3a9),'label':study_0x2f97c9(0x33e),'icon':study_0x2f97c9(0x65f),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/rusher-crusher/','categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x3d2),'label':'Sandboxels','icon':study_0x2f97c9(0x387),'src':study_0x2f97c9(0x2ac),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x4a0),'label':study_0x2f97c9(0x22a),'icon':study_0x2f97c9(0x37c),'src':study_0x2f97c9(0x483),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x312),'label':study_0x2f97c9(0x57a),'icon':study_0x2f97c9(0x2a3),'src':study_0x2f97c9(0x5ce),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x3e3),'label':'Scrapmetal','icon':study_0x2f97c9(0x42e),'src':'https://4yqt7wrhtx-ship-it.github.io/driving-games/scrapmetal/','categories':[study_0x2f97c9(0x3da)]},{'slug':'shuttledeck','label':study_0x2f97c9(0x373),'icon':study_0x2f97c9(0x4d5),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/shuttledeck/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x45a),'label':study_0x2f97c9(0x5f9),'icon':study_0x2f97c9(0x679),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/skibidi-strike/','categories':[study_0x2f97c9(0x32b)]},{'slug':'sky-car-stunt','label':study_0x2f97c9(0x53f),'icon':'img/21581.webp','src':'https://4yqt7wrhtx-ship-it.github.io/driving-games/sky-car-stunt/','categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x40d),'label':'Skywire','icon':study_0x2f97c9(0x6c0),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/skywire/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x451),'label':'Slime\x20Rush\x20Td','icon':'img/21583.webp','src':study_0x2f97c9(0x482),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x5f5),'label':'Sling\x20Tomb','icon':study_0x2f97c9(0x56e),'src':study_0x2f97c9(0x46b),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x332),'label':study_0x2f97c9(0x352),'icon':study_0x2f97c9(0x2de),'src':study_0x2f97c9(0x217),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x5af),'label':study_0x2f97c9(0x634),'icon':study_0x2f97c9(0x349),'src':study_0x2f97c9(0x2af),'categories':[study_0x2f97c9(0x32b)]},{'slug':'slope-ball','label':study_0x2f97c9(0x53c),'icon':'img/21587.webp','src':study_0x2f97c9(0x50e),'categories':[study_0x2f97c9(0x32b)]},{'slug':'sm64','label':'Sm64','icon':study_0x2f97c9(0x3d5),'src':study_0x2f97c9(0x52c),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x1b7),'label':study_0x2f97c9(0x2a0),'icon':study_0x2f97c9(0x4a9),'src':study_0x2f97c9(0x342),'categories':[study_0x2f97c9(0x32b)]},{'slug':'snail-bob-7','label':study_0x2f97c9(0x444),'icon':study_0x2f97c9(0x26f),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/snail-bob-7/','categories':['S.t.ra.te.g.y']},{'slug':'snail-bob-8','label':study_0x2f97c9(0x4ed),'icon':study_0x2f97c9(0x50f),'src':study_0x2f97c9(0x230),'categories':[study_0x2f97c9(0x265)]},{'slug':'snow-ride','label':study_0x2f97c9(0x3e1),'icon':study_0x2f97c9(0x2ee),'src':study_0x2f97c9(0x4bf),'categories':[study_0x2f97c9(0x32b)]},{'slug':'snowbattle','label':study_0x2f97c9(0x67e),'icon':study_0x2f97c9(0x61e),'src':study_0x2f97c9(0x225),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x621),'label':study_0x2f97c9(0x3a2),'icon':study_0x2f97c9(0x64a),'src':study_0x2f97c9(0x40a),'categories':[study_0x2f97c9(0x23e)]},{'slug':study_0x2f97c9(0x5b8),'label':study_0x2f97c9(0x59f),'icon':study_0x2f97c9(0x2e4),'src':study_0x2f97c9(0x396),'categories':[study_0x2f97c9(0x23e)]},{'slug':'soccer-skills','label':'Soccer\x20Skills','icon':study_0x2f97c9(0x2d7),'src':'https://4yqt7wrhtx-ship-it.github.io/driving-games/soccer-skills/','categories':[study_0x2f97c9(0x23e)]},{'slug':study_0x2f97c9(0x2f2),'label':'Soldier\x20Legend','icon':study_0x2f97c9(0x333),'src':study_0x2f97c9(0x692),'categories':['A.c.t.io.n']},{'slug':'solitaire','label':study_0x2f97c9(0x221),'icon':study_0x2f97c9(0x6b6),'src':study_0x2f97c9(0x460),'categories':[study_0x2f97c9(0x265)]},{'slug':'sort-the-court','label':'Sort\x20The\x20Court','icon':study_0x2f97c9(0x561),'src':study_0x2f97c9(0x1bc),'categories':[study_0x2f97c9(0x661)]},{'slug':'space-bar-clicker','label':study_0x2f97c9(0x2c5),'icon':study_0x2f97c9(0x2c0),'src':study_0x2f97c9(0x552),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x21a),'label':study_0x2f97c9(0x43f),'icon':'img/21601.webp','src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/space-company/','categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x580),'label':study_0x2f97c9(0x2e8),'icon':study_0x2f97c9(0x681),'src':study_0x2f97c9(0x46f),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x4da),'label':study_0x2f97c9(0x58a),'icon':study_0x2f97c9(0x254),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/spider-solitaire/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x1b0),'label':study_0x2f97c9(0x578),'icon':'img/21604.webp','src':study_0x2f97c9(0x213),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x2e2),'label':study_0x2f97c9(0x591),'icon':study_0x2f97c9(0x6ca),'src':study_0x2f97c9(0x6a4),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x4ae),'label':'Station\x20141','icon':study_0x2f97c9(0x581),'src':study_0x2f97c9(0x489),'categories':[study_0x2f97c9(0x32b)]},{'slug':'stealingthediamond','label':study_0x2f97c9(0x6c5),'icon':'img/21607.webp','src':study_0x2f97c9(0x375),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x5e0),'label':study_0x2f97c9(0x5d7),'icon':study_0x2f97c9(0x216),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/stick-archers/','categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x2a7),'label':study_0x2f97c9(0x3ec),'icon':study_0x2f97c9(0x45f),'src':study_0x2f97c9(0x490),'categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x2f6),'label':study_0x2f97c9(0x6be),'icon':study_0x2f97c9(0x2c3),'src':study_0x2f97c9(0x301),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x475),'label':study_0x2f97c9(0x2d3),'icon':study_0x2f97c9(0x5f8),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/stickman-boost/','categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x569),'label':study_0x2f97c9(0x3c9),'icon':study_0x2f97c9(0x646),'src':study_0x2f97c9(0x633),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x51f),'label':study_0x2f97c9(0x299),'icon':study_0x2f97c9(0x28e),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/stickman-hook/','categories':[study_0x2f97c9(0x265)]},{'slug':'stormthehouse2','label':'Stormthehouse2','icon':study_0x2f97c9(0x3dd),'src':study_0x2f97c9(0x625),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x244),'label':study_0x2f97c9(0x43e),'icon':study_0x2f97c9(0x37b),'src':study_0x2f97c9(0x57f),'categories':['A.c.t.io.n']},{'slug':'subway-surfers-ny','label':study_0x2f97c9(0x48d),'icon':study_0x2f97c9(0x366),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/subway-surfers-ny/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x2b7),'label':study_0x2f97c9(0x1f0),'icon':'img/21617.webp','src':study_0x2f97c9(0x58f),'categories':['D.r.i.v.i.n.g']},{'slug':study_0x2f97c9(0x4ec),'label':study_0x2f97c9(0x249),'icon':'img/21618.webp','src':study_0x2f97c9(0x64c),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x3b1),'label':study_0x2f97c9(0x408),'icon':'img/21619.webp','src':study_0x2f97c9(0x448),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x50c),'label':study_0x2f97c9(0x600),'icon':study_0x2f97c9(0x583),'src':study_0x2f97c9(0x577),'categories':['A.c.t.io.n']},{'slug':'swingo','label':study_0x2f97c9(0x22f),'icon':study_0x2f97c9(0x417),'src':study_0x2f97c9(0x43c),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x6ad),'label':'Synesthesia','icon':study_0x2f97c9(0x5de),'src':study_0x2f97c9(0x449),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x5a2),'label':study_0x2f97c9(0x520),'icon':study_0x2f97c9(0x411),'src':study_0x2f97c9(0x1b2),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x209),'label':study_0x2f97c9(0x329),'icon':study_0x2f97c9(0x29a),'src':study_0x2f97c9(0x20e),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x5a4),'label':study_0x2f97c9(0x5a9),'icon':study_0x2f97c9(0x528),'src':study_0x2f97c9(0x400),'categories':[study_0x2f97c9(0x32b)]},{'slug':'tank-trouble-2','label':study_0x2f97c9(0x1bf),'icon':study_0x2f97c9(0x5f4),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/tank-trouble-2/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x623),'label':study_0x2f97c9(0x62f),'icon':study_0x2f97c9(0x452),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/tanuki-sunset/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x62a),'label':study_0x2f97c9(0x468),'icon':'img/21628.webp','src':'https://4yqt7wrhtx-ship-it.github.io/action-games/tap-tap-shots/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x5fb),'label':study_0x2f97c9(0x2f9),'icon':'img/21629.webp','src':study_0x2f97c9(0x697),'categories':[study_0x2f97c9(0x32b)]},{'slug':'terraira','label':study_0x2f97c9(0x63b),'icon':study_0x2f97c9(0x6b9),'src':'https://4yqt7wrhtx-ship-it.github.io/action-games/terraira/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x5da),'label':study_0x2f97c9(0x534),'icon':'img/21631.webp','src':study_0x2f97c9(0x2cb),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x532),'label':'The\x20Final\x20Earth','icon':study_0x2f97c9(0x31b),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/the-final-earth/','categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x211),'label':'The\x20Hotel','icon':study_0x2f97c9(0x477),'src':study_0x2f97c9(0x6c8),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x1b9),'label':study_0x2f97c9(0x6b4),'icon':'img/21634.webp','src':study_0x2f97c9(0x453),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x205),'label':study_0x2f97c9(0x508),'icon':'img/21635.webp','src':study_0x2f97c9(0x4fd),'categories':[study_0x2f97c9(0x3da)]},{'slug':'there-is-no-game','label':'There\x20Is\x20No\x20Game','icon':study_0x2f97c9(0x33b),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/there-is-no-game/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x497),'label':'Thisistheonlylevel','icon':'img/21637.webp','src':study_0x2f97c9(0x6c9),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x46d),'label':study_0x2f97c9(0x203),'icon':study_0x2f97c9(0x467),'src':study_0x2f97c9(0x51e),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x5d6),'label':study_0x2f97c9(0x403),'icon':'img/21639.webp','src':study_0x2f97c9(0x39a),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x52e),'label':study_0x2f97c9(0x339),'icon':'img/21640.webp','src':study_0x2f97c9(0x6b7),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x24a),'label':study_0x2f97c9(0x38a),'icon':'img/21641.webp','src':study_0x2f97c9(0x20f),'categories':['S.t.ra.te.g.y']},{'slug':'townscaper','label':study_0x2f97c9(0x3c7),'icon':study_0x2f97c9(0x3b5),'src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/townscaper/','categories':[study_0x2f97c9(0x661)]},{'slug':'traffic-control','label':study_0x2f97c9(0x306),'icon':study_0x2f97c9(0x3cf),'src':study_0x2f97c9(0x323),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x2d9),'label':study_0x2f97c9(0x66a),'icon':study_0x2f97c9(0x3a0),'src':study_0x2f97c9(0x5ac),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x4d0),'label':study_0x2f97c9(0x245),'icon':study_0x2f97c9(0x573),'src':study_0x2f97c9(0x579),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x317),'label':'Tunnel\x20Rush','icon':study_0x2f97c9(0x56f),'src':study_0x2f97c9(0x65c),'categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x1e5),'label':study_0x2f97c9(0x29e),'icon':study_0x2f97c9(0x31a),'src':study_0x2f97c9(0x28b),'categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x598),'label':study_0x2f97c9(0x3c2),'icon':study_0x2f97c9(0x3fc),'src':study_0x2f97c9(0x2b6),'categories':['A.c.t.io.n']},{'slug':study_0x2f97c9(0x60d),'label':'Twitch\x20Tetris','icon':study_0x2f97c9(0x1f5),'src':study_0x2f97c9(0x385),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x22c),'label':study_0x2f97c9(0x572),'icon':study_0x2f97c9(0x25a),'src':study_0x2f97c9(0x32a),'categories':['Casual']},{'slug':'vex3','label':'Vex3','icon':study_0x2f97c9(0x337),'src':study_0x2f97c9(0x410),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x3ba),'label':'Vex4','icon':'img/21652.webp','src':study_0x2f97c9(0x362),'categories':[study_0x2f97c9(0x32b)]},{'slug':'vex5','label':'Vex5','icon':study_0x2f97c9(0x1ca),'src':study_0x2f97c9(0x691),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x45d),'label':study_0x2f97c9(0x542),'icon':'img/21654.webp','src':study_0x2f97c9(0x4f6),'categories':[study_0x2f97c9(0x32b)]},{'slug':'vex7','label':'Vex7','icon':study_0x2f97c9(0x1d5),'src':study_0x2f97c9(0x41e),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x30f),'label':study_0x2f97c9(0x586),'icon':study_0x2f97c9(0x34c),'src':study_0x2f97c9(0x557),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x3d8),'label':study_0x2f97c9(0x4b2),'icon':study_0x2f97c9(0x5c8),'src':study_0x2f97c9(0x628),'categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x55d),'label':'Wallsmash','icon':'img/21658.webp','src':study_0x2f97c9(0x2cf),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x232),'label':study_0x2f97c9(0x341),'icon':'img/21659.webp','src':study_0x2f97c9(0x3e0),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x1c7),'label':'Wbwwb','icon':study_0x2f97c9(0x318),'src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/wbwwb/','categories':[study_0x2f97c9(0x661)]},{'slug':'weavesilk','label':study_0x2f97c9(0x2ff),'icon':study_0x2f97c9(0x298),'src':'https://4yqt7wrhtx-ship-it.github.io/casual-games/weavesilk/','categories':['Casual']},{'slug':'webgl-fluid-simulation','label':study_0x2f97c9(0x4b8),'icon':'img/21662.webp','src':study_0x2f97c9(0x553),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x4f9),'label':study_0x2f97c9(0x2ec),'icon':study_0x2f97c9(0x671),'src':study_0x2f97c9(0x3ce),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x647),'label':study_0x2f97c9(0x69b),'icon':'img/21664.webp','src':study_0x2f97c9(0x5f6),'categories':['D.r.i.v.i.n.g']},{'slug':study_0x2f97c9(0x24c),'label':study_0x2f97c9(0x605),'icon':study_0x2f97c9(0x421),'src':study_0x2f97c9(0x64b),'categories':[study_0x2f97c9(0x3da)]},{'slug':study_0x2f97c9(0x59e),'label':study_0x2f97c9(0x626),'icon':study_0x2f97c9(0x23d),'src':study_0x2f97c9(0x436),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x62e),'label':study_0x2f97c9(0x656),'icon':study_0x2f97c9(0x4c8),'src':study_0x2f97c9(0x49a),'categories':[study_0x2f97c9(0x265)]},{'slug':'wheely-4','label':study_0x2f97c9(0x1d2),'icon':study_0x2f97c9(0x252),'src':study_0x2f97c9(0x30d),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x3df),'label':study_0x2f97c9(0x279),'icon':'img/21669.webp','src':study_0x2f97c9(0x654),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x672),'label':study_0x2f97c9(0x6bb),'icon':study_0x2f97c9(0x494),'src':study_0x2f97c9(0x55c),'categories':[study_0x2f97c9(0x265)]},{'slug':'wheely-7','label':study_0x2f97c9(0x6c4),'icon':study_0x2f97c9(0x237),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/wheely-7/','categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x1e7),'label':study_0x2f97c9(0x266),'icon':'img/21672.webp','src':study_0x2f97c9(0x300),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x404),'label':'Wolf3d','icon':study_0x2f97c9(0x23a),'src':study_0x2f97c9(0x4b6),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x3cc),'label':study_0x2f97c9(0x263),'icon':study_0x2f97c9(0x469),'src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/wood-block-puzzle/','categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x1ab),'label':'Woodventure','icon':study_0x2f97c9(0x1ad),'src':study_0x2f97c9(0x5d5),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x409),'label':study_0x2f97c9(0x479),'icon':study_0x2f97c9(0x60a),'src':study_0x2f97c9(0x331),'categories':[study_0x2f97c9(0x265)]},{'slug':'wordle','label':study_0x2f97c9(0x57c),'icon':study_0x2f97c9(0x5fc),'src':study_0x2f97c9(0x683),'categories':['S.t.ra.te.g.y']},{'slug':study_0x2f97c9(0x620),'label':study_0x2f97c9(0x650),'icon':study_0x2f97c9(0x1ef),'src':study_0x2f97c9(0x2a2),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x618),'label':study_0x2f97c9(0x593),'icon':study_0x2f97c9(0x3e2),'src':study_0x2f97c9(0x49d),'categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x4fc),'label':study_0x2f97c9(0x405),'icon':'img/21680.webp','src':'https://4yqt7wrhtx-ship-it.github.io/action-games/worlds-hardest-game-2/','categories':[study_0x2f97c9(0x32b)]},{'slug':study_0x2f97c9(0x61d),'label':study_0x2f97c9(0x509),'icon':study_0x2f97c9(0x212),'src':study_0x2f97c9(0x37e),'categories':[study_0x2f97c9(0x3da)]},{'slug':'xx142-b2exe','label':'Xx142\x20B2exe','icon':'img/21682.webp','src':study_0x2f97c9(0x48e),'categories':[study_0x2f97c9(0x265)]},{'slug':study_0x2f97c9(0x57e),'label':study_0x2f97c9(0x1b3),'icon':'img/21683.webp','src':study_0x2f97c9(0x4be),'categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x397),'label':study_0x2f97c9(0x2e5),'icon':study_0x2f97c9(0x67c),'src':'https://classnotes.online/classroom/lesson-2/','categories':[study_0x2f97c9(0x661)]},{'slug':study_0x2f97c9(0x4e3),'label':study_0x2f97c9(0x395),'icon':'img/21684.webp','src':'https://4yqt7wrhtx-ship-it.github.io/strategy-games/you-are-bezos/','categories':['S.t.ra.te.g.y']}];
+const ACADEMIC_DATASET = [
+  {
+    "slug": "1",
+    "label": "1",
+    "icon": "img/21245.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/1/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "10-minutes-till-dawn",
+    "label": "10 Minutes Till Dawn",
+    "icon": "img/21246.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/10-minutes-till-dawn/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "1010-deluxe",
+    "label": "1010 Deluxe",
+    "icon": "img/21247.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/1010-deluxe/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "1v1-soccer",
+    "label": "1v1 Soccer",
+    "icon": "img/21248.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/1v1-soccer/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "1v1lol",
+    "label": "1v1lol",
+    "icon": "img/21249.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/1v1lol/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "2048",
+    "label": "2048",
+    "icon": "img/21250.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/2048/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "2048-multitask",
+    "label": "2048 Multitask",
+    "icon": "img/21251.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/2048-multitask/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "3d-bowling",
+    "label": "3d Bowling",
+    "icon": "img/21252.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/3d-bowling/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "8-ball",
+    "label": "8 Ball",
+    "icon": "img/21253.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/8-ball/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "9007199254740992",
+    "label": "9007199254740992",
+    "icon": "img/21254.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/9007199254740992/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "achievementunlocked",
+    "label": "Achievementunlocked",
+    "icon": "img/21255.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/achievementunlocked/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "adam-eve",
+    "label": "Adam Eve",
+    "icon": "img/21256.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/adam-eve/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "adam-eve-2",
+    "label": "Adam Eve 2",
+    "icon": "img/21257.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/adam-eve-2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "adarkroom",
+    "label": "Adarkroom",
+    "icon": "img/21258.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/adarkroom/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "adrenalinechallenge",
+    "label": "Adrenalinechallenge",
+    "icon": "img/21259.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/adrenalinechallenge/",
+    "categories": [
+      "Action"
+    ]
+  },
+  {
+    "slug": "adventure-anxiety",
+    "label": "Adventure Anxiety",
+    "icon": "img/21260.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/adventure-anxiety/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "adventure-drivers",
+    "label": "Adventure Drivers",
+    "icon": "img/21261.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/adventure-drivers/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "ages-of-conflict",
+    "label": "Ages Of Conflict",
+    "icon": "img/21262.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/ages-of-conflict/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "alienhominid",
+    "label": "Alienhominid",
+    "icon": "img/21263.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/alienhominid/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "amidst-the-clouds",
+    "label": "Amidst The Clouds",
+    "icon": "img/21264.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/amidst-the-clouds/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "among-us",
+    "label": "Among Us",
+    "icon": "img/21265.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/among-us/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "angry-sharks",
+    "label": "Angry Sharks",
+    "icon": "img/21266.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/angry-sharks/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "apple-shooter",
+    "label": "Apple Shooter",
+    "icon": "img/21267.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/apple-shooter/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "aquapark-slides",
+    "label": "Aquapark Slides",
+    "icon": "img/21268.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/aquapark-slides/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "arcane-archer",
+    "label": "Arcane Archer",
+    "icon": "img/21269.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/arcane-archer/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "avalanche",
+    "label": "Avalanche",
+    "icon": "img/21270.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/avalanche/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "awesome-tanks-2",
+    "label": "Awesome Tanks 2",
+    "icon": "img/21271.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/awesome-tanks-2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "axis-football-league",
+    "label": "Axis Football League",
+    "icon": "img/21272.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/axis-football-league/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "backrooms",
+    "label": "Backrooms",
+    "icon": "img/21273.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/backrooms/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "backrooms-2d",
+    "label": "Backrooms 2d",
+    "icon": "img/21274.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/backrooms-2d/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "bacon-may-die",
+    "label": "Bacon May Die",
+    "icon": "img/21275.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/bacon-may-die/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "bad-ice-cream",
+    "label": "Bad Ice Cream",
+    "icon": "img/21276.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/bad-ice-cream/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "bad-ice-cream-2",
+    "label": "Bad Ice Cream 2",
+    "icon": "img/21277.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/bad-ice-cream-2/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "bad-ice-cream-3",
+    "label": "Bad Ice Cream 3",
+    "icon": "img/21278.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/bad-ice-cream-3/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "baldis-basics",
+    "label": "Baldis Basics",
+    "icon": "img/21279.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/baldis-basics/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "ball-sort-halloween",
+    "label": "Ball Sort Halloween",
+    "icon": "img/21280.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/ball-sort-halloween/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "ball-sort-puzzle",
+    "label": "Ball Sort Puzzle",
+    "icon": "img/21281.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/ball-sort-puzzle/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "ball-sort-soccer",
+    "label": "Ball Sort Soccer",
+    "icon": "img/21282.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/ball-sort-soccer/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "ballistic",
+    "label": "Ballistic",
+    "icon": "img/21283.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/ballistic/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "bally",
+    "label": "Bally",
+    "icon": "img/21284.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/bally/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "basket-and-ball",
+    "label": "Basket And Ball",
+    "icon": "img/21285.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/basket-and-ball/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "basket-champs",
+    "label": "Basket Champs",
+    "icon": "img/21286.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/basket-champs/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "basket-random",
+    "label": "Basket Random",
+    "icon": "img/21287.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/basket-random/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "basketball-stars",
+    "label": "Basketball Stars",
+    "icon": "img/21288.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/basketball-stars/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "battleforgondor",
+    "label": "Battleforgondor",
+    "icon": "img/21289.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/battleforgondor/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "bicycle-stunt-3d",
+    "label": "Bicycle Stunt 3d",
+    "icon": "img/21290.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/bicycle-stunt-3d/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "big-shot-boxing",
+    "label": "Big Shot Boxing",
+    "icon": "img/21291.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/big-shot-boxing/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "bigredbutton",
+    "label": "Bigredbutton",
+    "icon": "img/21292.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/bigredbutton/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "biker-street",
+    "label": "Biker Street",
+    "icon": "img/21293.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/biker-street/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "bitcoin-clicker",
+    "label": "Bitcoin Clicker",
+    "icon": "img/21294.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/bitcoin-clicker/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "bitlife",
+    "label": "Bitlife",
+    "icon": "img/21295.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/bitlife/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "blacholesquare",
+    "label": "Blacholesquare",
+    "icon": "img/21296.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/blacholesquare/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "blackknight",
+    "label": "Blackknight",
+    "icon": "img/21297.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/blackknight/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "block-pig",
+    "label": "Block Pig",
+    "icon": "img/21298.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/block-pig/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "bloonstd",
+    "label": "Bloonstd",
+    "icon": "img/21299.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/bloonstd/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "bloonstd2",
+    "label": "Bloonstd2",
+    "icon": "img/21300.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/bloonstd2/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "bloonstd4",
+    "label": "Bloonstd4",
+    "icon": "img/21301.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/bloonstd4/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "bloxors",
+    "label": "Bloxors",
+    "icon": "img/21302.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/bloxors/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "blumgi-rocket",
+    "label": "Blumgi Rocket",
+    "icon": "img/21303.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/blumgi-rocket/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "blumgi-slime",
+    "label": "Blumgi Slime",
+    "icon": "img/21304.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/blumgi-slime/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "bob-the-robber-4",
+    "label": "Bob The Robber 4",
+    "icon": "img/21305.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/bob-the-robber-4/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "bobtherobber2",
+    "label": "Bobtherobber2",
+    "icon": "img/21306.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/bobtherobber2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "bomb-it-7",
+    "label": "Bomb It 7",
+    "icon": "img/21307.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/bomb-it-7/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "bottle-flip",
+    "label": "Bottle Flip",
+    "icon": "img/21308.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/bottle-flip/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "bottle-flip-3d",
+    "label": "Bottle Flip 3d",
+    "icon": "img/21309.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/bottle-flip-3d/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "bouncy-woods",
+    "label": "Bouncy Woods",
+    "icon": "img/21310.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/bouncy-woods/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "boxel-rebound",
+    "label": "Boxel Rebound",
+    "icon": "img/21311.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/boxel-rebound/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "boxhead2play",
+    "label": "Boxhead2play",
+    "icon": "img/21312.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/boxhead2play/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "boxing-random",
+    "label": "Boxing Random",
+    "icon": "img/21313.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/boxing-random/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "breakingthebank",
+    "label": "Breakingthebank",
+    "icon": "img/21314.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/breakingthebank/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "btts",
+    "label": "Btts",
+    "icon": "img/21315.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/btts/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "bubble-pop",
+    "label": "Bubble Pop",
+    "icon": "img/21316.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/bubble-pop/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "bullet-force",
+    "label": "Bullet Force",
+    "icon": "img/21317.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/bullet-force/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "burnin-rubber-5xs",
+    "label": "Burnin Rubber 5xs",
+    "icon": "img/21318.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/burnin-rubber-5xs/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "burrito-bison",
+    "label": "Burrito Bison",
+    "icon": "img/21319.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/burrito-bison/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "burrito-bison-revenge",
+    "label": "Burrito Bison Revenge",
+    "icon": "img/21320.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/burrito-bison-revenge/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "cannon-basketball-4",
+    "label": "Cannon Basketball 4",
+    "icon": "img/21321.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/cannon-basketball-4/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "canyondefense",
+    "label": "Canyondefense",
+    "icon": "img/21322.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/canyondefense/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "car-rush",
+    "label": "Car Rush",
+    "icon": "img/21323.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/car-rush/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "cars-simulator",
+    "label": "Cars Simulator",
+    "icon": "img/21324.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/cars-simulator/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "cartoon-mini-racing",
+    "label": "Cartoon Mini Racing",
+    "icon": "img/21325.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/cartoon-mini-racing/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "cell-machine",
+    "label": "Cell Machine",
+    "icon": "img/21326.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/cell-machine/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "champion-island",
+    "label": "Champion Island",
+    "icon": "img/21327.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/champion-island/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "championarcher",
+    "label": "Championarcher",
+    "icon": "img/21328.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/championarcher/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "checkers-legend",
+    "label": "Checkers Legend",
+    "icon": "img/21329.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/checkers-legend/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "circlo",
+    "label": "Circlo",
+    "icon": "img/21330.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/circlo/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "circlo2",
+    "label": "Circlo2",
+    "icon": "img/21331.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/circlo2/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "clicker-heroes",
+    "label": "Clicker Heroes",
+    "icon": "img/21332.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/clicker-heroes/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "climb-over-it",
+    "label": "Climb Over It",
+    "icon": "img/21333.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/climb-over-it/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "cluster-rush",
+    "label": "Cluster Rush",
+    "icon": "img/21334.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/cluster-rush/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "color-match",
+    "label": "Color Match",
+    "icon": "img/21335.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/color-match/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "connect3",
+    "label": "Connect3",
+    "icon": "img/21336.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/connect3/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "cookie-clicker",
+    "label": "Cookie Clicker",
+    "icon": "img/21337.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/cookie-clicker/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "core-ball",
+    "label": "Core Ball",
+    "icon": "img/21338.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/core-ball/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "craftmine",
+    "label": "Craftmine",
+    "icon": "img/21339.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/craftmine/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "crazy-cars",
+    "label": "Crazy Cars",
+    "icon": "img/21340.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/crazy-cars/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "crazy-tunnel-3d",
+    "label": "Crazy Tunnel 3d",
+    "icon": "img/21341.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/crazy-tunnel-3d/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "creativekillchamber",
+    "label": "Creativekillchamber",
+    "icon": "img/21342.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/creativekillchamber/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "crossyroad",
+    "label": "Crossyroad",
+    "icon": "img/21343.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/crossyroad/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "csgo-clicker",
+    "label": "Csgo Clicker",
+    "icon": "img/21344.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/csgo-clicker/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "ctr",
+    "label": "Ctr",
+    "icon": "img/21345.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/ctr/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "ctr-holiday",
+    "label": "Ctr Holiday",
+    "icon": "img/21346.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/ctr-holiday/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "ctr-tr",
+    "label": "Ctr Tr",
+    "icon": "img/21347.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/ctr-tr/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "cubefield",
+    "label": "Cubefield",
+    "icon": "img/21348.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/cubefield/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "dante",
+    "label": "Dante",
+    "icon": "img/21349.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/dante/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "dead-again",
+    "label": "Dead Again",
+    "icon": "img/21350.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/dead-again/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "deal-or-no-deal",
+    "label": "Deal Or No Deal",
+    "icon": "img/21351.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/deal-or-no-deal/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "death-run-3d",
+    "label": "Death Run 3d",
+    "icon": "img/21352.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/death-run-3d/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "deepest-sword",
+    "label": "Deepest Sword",
+    "icon": "img/21353.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/deepest-sword/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "defend-the-tank",
+    "label": "Defend The Tank",
+    "icon": "img/21354.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/defend-the-tank/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "dino-bros",
+    "label": "Dino Bros",
+    "icon": "img/21355.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/dino-bros/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "dino-merge",
+    "label": "Dino Merge",
+    "icon": "img/21356.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/dino-merge/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "doctor-acorn2",
+    "label": "Doctor Acorn2",
+    "icon": "img/21357.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/doctor-acorn2/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "dodge",
+    "label": "Dodge",
+    "icon": "img/21358.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/dodge/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "doge2048",
+    "label": "Doge2048",
+    "icon": "img/21359.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/doge2048/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "dogeminer",
+    "label": "Dogeminer",
+    "icon": "img/21360.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/dogeminer/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "doodle-jump",
+    "label": "Doodle Jump",
+    "icon": "img/21361.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/doodle-jump/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "down-the-hill",
+    "label": "Down The Hill",
+    "icon": "img/21362.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/down-the-hill/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "dragon-vs-bricks",
+    "label": "Dragon Vs Bricks",
+    "icon": "img/21363.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/dragon-vs-bricks/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "draw-the-hill",
+    "label": "Draw The Hill",
+    "icon": "img/21364.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/draw-the-hill/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "drift-boss",
+    "label": "Drift Boss",
+    "icon": "img/21365.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/drift-boss/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "drive-mad",
+    "label": "Drive Mad",
+    "icon": "img/21366.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/drive-mad/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "ducklife",
+    "label": "Ducklife",
+    "icon": "img/21367.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/ducklife/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "ducklife-2",
+    "label": "Ducklife 2",
+    "icon": "img/21368.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/ducklife-2/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "ducklife-3",
+    "label": "Ducklife 3",
+    "icon": "img/21369.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/ducklife-3/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "ducklife4",
+    "label": "Ducklife4",
+    "icon": "img/21370.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/ducklife4/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "dummy-never-fails",
+    "label": "Dummy Never Fails",
+    "icon": "img/21371.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/dummy-never-fails/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "dummy-never-fails-2",
+    "label": "Dummy Never Fails 2",
+    "icon": "img/21372.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/dummy-never-fails-2/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "eagle-ride",
+    "label": "Eagle Ride",
+    "icon": "img/21373.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/eagle-ride/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "earn-to-die",
+    "label": "Earn To Die",
+    "icon": "img/21374.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/earn-to-die/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "edge-surf",
+    "label": "Edge Surf",
+    "icon": "img/21375.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/edge-surf/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "edgenotfound",
+    "label": "Edgenotfound",
+    "icon": "img/21376.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/edgenotfound/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "eel-slap",
+    "label": "Eel Slap",
+    "icon": "img/21377.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/eel-slap/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "eggy-car",
+    "label": "Eggy Car",
+    "icon": "img/21378.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/eggy-car/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "elastic-face",
+    "label": "Elastic Face",
+    "icon": "img/21379.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/elastic-face/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "electron-dash",
+    "label": "Electron Dash",
+    "icon": "img/21380.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/electron-dash/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "endless-truck",
+    "label": "Endless Truck",
+    "icon": "img/21381.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/endless-truck/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "endless-tunnel",
+    "label": "Endless Tunnel",
+    "icon": "img/21382.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/endless-tunnel/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "endlesswar3",
+    "label": "Endlesswar3",
+    "icon": "img/21383.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/endlesswar3/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "escaping-prison",
+    "label": "Escaping Prison",
+    "icon": "img/21384.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/escaping-prison/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "evil-glitch",
+    "label": "Evil Glitch",
+    "icon": "img/21385.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/evil-glitch/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "evolution",
+    "label": "Evolution",
+    "icon": "img/21386.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/evolution/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "exo",
+    "label": "Exo",
+    "icon": "img/21387.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/exo/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "factoryballs",
+    "label": "Factoryballs",
+    "icon": "img/21388.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/factoryballs/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "fake-virus",
+    "label": "Fake Virus",
+    "icon": "img/21389.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/fake-virus/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "fancy-pants-2",
+    "label": "Fancy Pants 2",
+    "icon": "img/21390.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/fancy-pants-2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "fancy-pants-3",
+    "label": "Fancy Pants 3",
+    "icon": "img/21391.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/fancy-pants-3/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "fancypantsadventures",
+    "label": "Fancypantsadventures",
+    "icon": "img/21392.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/fancypantsadventures/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "farm-match",
+    "label": "Farm Match",
+    "icon": "img/21393.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/farm-match/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "fireboywatergirlforesttemple",
+    "label": "Fireboywatergirlforesttemple",
+    "icon": "img/21394.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/fireboywatergirlforesttemple/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "fisherman-life",
+    "label": "Fisherman Life",
+    "icon": "img/21395.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/fisherman-life/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "flappy-bird",
+    "label": "Flappy Bird",
+    "icon": "img/21396.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/flappy-bird/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "flashtetris",
+    "label": "Flashtetris",
+    "icon": "img/21397.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/flashtetris/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "fleeing-complex",
+    "label": "Fleeing Complex",
+    "icon": "img/21398.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/fleeing-complex/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "fnaf",
+    "label": "Fnaf",
+    "icon": "img/21399.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/fnaf/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "fnaw",
+    "label": "Fnaw",
+    "icon": "img/21400.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/fnaw/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "football-brawl",
+    "label": "Football Brawl",
+    "icon": "img/21401.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/football-brawl/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "football-legends",
+    "label": "Football Legends",
+    "icon": "img/21402.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/football-legends/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "football-run",
+    "label": "Football Run",
+    "icon": "img/21403.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/football-run/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "football-strike",
+    "label": "Football Strike",
+    "icon": "img/21404.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/football-strike/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "froggys-battle",
+    "label": "Froggys Battle",
+    "icon": "img/21405.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/froggys-battle/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "fruit-ninja",
+    "label": "Fruit Ninja",
+    "icon": "img/21406.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/fruit-ninja/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "frying-nemo",
+    "label": "Frying Nemo",
+    "icon": "img/21407.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/frying-nemo/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "funnyshooter2",
+    "label": "Funnyshooter2",
+    "icon": "img/21408.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/funnyshooter2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "galaga",
+    "label": "Galaga",
+    "icon": "img/21409.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/galaga/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "game-inside",
+    "label": "Game Inside",
+    "icon": "img/21410.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/game-inside/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "generic-fishing-game",
+    "label": "Generic Fishing Game",
+    "icon": "img/21411.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/generic-fishing-game/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "geodash",
+    "label": "Geodash",
+    "icon": "img/21412.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/geodash/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "geometry-dash",
+    "label": "Geometry Dash",
+    "icon": "img/21413.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/geometry-dash/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "georgeandtheprinter",
+    "label": "Georgeandtheprinter",
+    "icon": "img/21414.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/georgeandtheprinter/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "get-on-top",
+    "label": "Get On Top",
+    "icon": "img/21415.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/get-on-top/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "getaway-shootout",
+    "label": "Getaway Shootout",
+    "icon": "img/21416.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/getaway-shootout/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "getting-over-it",
+    "label": "Getting Over It",
+    "icon": "img/21417.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/getting-over-it/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "gimme-the-airpod",
+    "label": "Gimme The Airpod",
+    "icon": "img/21418.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/gimme-the-airpod/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "gladihoppers",
+    "label": "Gladihoppers",
+    "icon": "img/21419.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/gladihoppers/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "glitch-dash",
+    "label": "Glitch Dash",
+    "icon": "img/21420.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/glitch-dash/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "go-ball",
+    "label": "Go Ball",
+    "icon": "img/21421.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/go-ball/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "gobdun",
+    "label": "Gobdun",
+    "icon": "img/21422.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/gobdun/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "goodnight",
+    "label": "Goodnight",
+    "icon": "img/21423.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/goodnight/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "google-feud",
+    "label": "Google Feud",
+    "icon": "img/21424.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/google-feud/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "gravity-soccer",
+    "label": "Gravity Soccer",
+    "icon": "img/21425.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/gravity-soccer/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "greybox",
+    "label": "Greybox",
+    "icon": "img/21426.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/greybox/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "groovy-ski",
+    "label": "Groovy Ski",
+    "icon": "img/21427.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/groovy-ski/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "gswitch",
+    "label": "Gswitch",
+    "icon": "img/21428.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/gswitch/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "gswitch-2",
+    "label": "Gswitch 2",
+    "icon": "img/21429.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/gswitch-2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "gswitch-3",
+    "label": "Gswitch 3",
+    "icon": "img/21430.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/gswitch-3/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "guess-kitty",
+    "label": "Guess Kitty",
+    "icon": "img/21431.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/guess-kitty/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "gun-mayhem",
+    "label": "Gun Mayhem",
+    "icon": "img/21432.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/gun-mayhem/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "gun-mayhem-2",
+    "label": "Gun Mayhem 2",
+    "icon": "img/21433.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/gun-mayhem-2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "gun-mayhem-redux",
+    "label": "Gun Mayhem Redux",
+    "icon": "img/21434.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/gun-mayhem-redux/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "gunblood",
+    "label": "Gunblood",
+    "icon": "img/21435.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/gunblood/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "gura-temberine",
+    "label": "Gura Temberine",
+    "icon": "img/21436.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/gura-temberine/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "hackertype",
+    "label": "Hackertype",
+    "icon": "img/21437.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/hackertype/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "handshakes",
+    "label": "Handshakes",
+    "icon": "img/21438.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/handshakes/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "hanger",
+    "label": "Hanger",
+    "icon": "img/21439.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/hanger/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "happy-hop",
+    "label": "Happy Hop",
+    "icon": "img/21440.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/happy-hop/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "hba",
+    "label": "Hba",
+    "icon": "img/21441.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/hba/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "head-soccer",
+    "label": "Head Soccer",
+    "icon": "img/21442.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/head-soccer/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "heads-arena",
+    "label": "Heads Arena",
+    "icon": "img/21443.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/heads-arena/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "helicopter",
+    "label": "Helicopter",
+    "icon": "img/21444.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/helicopter/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "hexempire",
+    "label": "Hexempire",
+    "icon": "img/21445.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/hexempire/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "hextris",
+    "label": "Hextris",
+    "icon": "img/21446.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/hextris/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "hide-and-smash",
+    "label": "Hide And Smash",
+    "icon": "img/21447.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/hide-and-smash/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "hop-pop-it",
+    "label": "Hop Pop It",
+    "icon": "img/21448.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/hop-pop-it/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "hungry-lamu",
+    "label": "Hungry Lamu",
+    "icon": "img/21449.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/hungry-lamu/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "icy-head-2",
+    "label": "Icy Head 2",
+    "icon": "img/21450.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/icy-head-2/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "icy-head-3",
+    "label": "Icy Head 3",
+    "icon": "img/21451.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/icy-head-3/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "icycle",
+    "label": "Icycle",
+    "icon": "img/21452.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/icycle/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "idle-breakout",
+    "label": "Idle Breakout",
+    "icon": "img/21453.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/idle-breakout/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "idle-mining",
+    "label": "Idle Mining",
+    "icon": "img/21454.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/idle-mining/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "idle-restaurants",
+    "label": "Idle Restaurants",
+    "icon": "img/21455.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/idle-restaurants/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "impossiblequiz",
+    "label": "Impossiblequiz",
+    "icon": "img/21456.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/impossiblequiz/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "infiltrating-airship",
+    "label": "Infiltrating Airship",
+    "icon": "img/21457.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/infiltrating-airship/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "infinite-soccer",
+    "label": "Infinite Soccer",
+    "icon": "img/21458.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/infinite-soccer/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "iron-snout",
+    "label": "Iron Snout",
+    "icon": "img/21459.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/iron-snout/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "jetpack-joyride",
+    "label": "Jetpack Joyride",
+    "icon": "img/21460.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/jetpack-joyride/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "jewels-blitz-5",
+    "label": "Jewels Blitz 5",
+    "icon": "img/21461.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/jewels-blitz-5/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "just-fall",
+    "label": "Just Fall",
+    "icon": "img/21462.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/just-fall/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "just-one-boss",
+    "label": "Just One Boss",
+    "icon": "img/21463.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/just-one-boss/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "kitchen-gun-game",
+    "label": "Kitchen Gun Game",
+    "icon": "img/21464.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/kitchen-gun-game/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "kittencannon",
+    "label": "Kittencannon",
+    "icon": "img/21465.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/kittencannon/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "knife-master",
+    "label": "Knife Master",
+    "icon": "img/21466.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/knife-master/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "learn-to-fly-2",
+    "label": "Learn To Fly 2",
+    "icon": "img/21467.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/learn-to-fly-2/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "learntofly",
+    "label": "Learntofly",
+    "icon": "img/21468.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/learntofly/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "little-alchemy-2",
+    "label": "Little Alchemy 2",
+    "icon": "img/21469.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/little-alchemy-2/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "madalin-stunt-cars-2",
+    "label": "Madalin Stunt Cars 2",
+    "icon": "img/21470.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/madalin-stunt-cars-2/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "marbles-sorting",
+    "label": "Marbles Sorting",
+    "icon": "img/21471.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/marbles-sorting/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "mario",
+    "label": "Mario",
+    "icon": "img/21472.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/mario/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "mario-bros",
+    "label": "Mario Bros",
+    "icon": "img/21473.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/mario-bros/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "matrixrampage",
+    "label": "Matrixrampage",
+    "icon": "img/21474.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/matrixrampage/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "meme2048",
+    "label": "Meme2048",
+    "icon": "img/21475.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/meme2048/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "merge-round-racers",
+    "label": "Merge Round Racers",
+    "icon": "img/21476.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/merge-round-racers/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "mineblocks",
+    "label": "Mineblocks",
+    "icon": "img/21477.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/mineblocks/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "minecraft-15",
+    "label": "Minecraft 15",
+    "icon": "img/21478.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/minecraft-15/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "minecraft-18",
+    "label": "Minecraft 18",
+    "icon": "img/21479.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/minecraft-18/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "minecraft-case",
+    "label": "Minecraft Case",
+    "icon": "img/21480.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/minecraft-case/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "minecraft-classic",
+    "label": "Minecraft Classic",
+    "icon": "img/21481.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/minecraft-classic/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "minecraftbeta",
+    "label": "Minecraftbeta",
+    "icon": "img/21482.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/minecraftbeta/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "minesweeper",
+    "label": "Minesweeper",
+    "icon": "img/21483.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/minesweeper/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "miniputt",
+    "label": "Miniputt",
+    "icon": "img/21484.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/miniputt/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "missiles",
+    "label": "Missiles",
+    "icon": "img/21485.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/missiles/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "money-movers",
+    "label": "Money Movers",
+    "icon": "img/21486.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/money-movers/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "money-movers-2",
+    "label": "Money Movers 2",
+    "icon": "img/21487.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/money-movers-2/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "money-movers-3",
+    "label": "Money Movers 3",
+    "icon": "img/21488.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/money-movers-3/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "monster-truck-destroyer",
+    "label": "Monster Truck Destroyer",
+    "icon": "img/21489.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/monster-truck-destroyer/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "motox3m",
+    "label": "Motox3m",
+    "icon": "img/21490.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/motox3m/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "motox3m-pool",
+    "label": "Motox3m Pool",
+    "icon": "img/21491.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/motox3m-pool/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "motox3m-spooky",
+    "label": "Motox3m Spooky",
+    "icon": "img/21492.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/motox3m-spooky/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "motox3m-winter",
+    "label": "Motox3m Winter",
+    "icon": "img/21493.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/motox3m-winter/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "motox3m2",
+    "label": "Motox3m2",
+    "icon": "img/21494.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/motox3m2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "moving-truck",
+    "label": "Moving Truck",
+    "icon": "img/21495.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/moving-truck/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "mr-bullet",
+    "label": "Mr Bullet",
+    "icon": "img/21496.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/mr-bullet/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "mutazone",
+    "label": "Mutazone",
+    "icon": "img/21497.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/mutazone/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "my-rusty-submarine",
+    "label": "My Rusty Submarine",
+    "icon": "img/21498.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/my-rusty-submarine/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "n-gon",
+    "label": "N Gon",
+    "icon": "img/21499.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/n-gon/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "ninja-cat",
+    "label": "Ninja Cat",
+    "icon": "img/21500.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/ninja-cat/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "ninjavsevilcorp",
+    "label": "Ninjavsevilcorp",
+    "icon": "img/21501.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/ninjavsevilcorp/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "ns-shaft",
+    "label": "Ns Shaft",
+    "icon": "img/21502.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/ns-shaft/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "nut-simulator",
+    "label": "Nut Simulator",
+    "icon": "img/21503.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/nut-simulator/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "offlineparadise",
+    "label": "Offlineparadise",
+    "icon": "img/21504.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/offlineparadise/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "ohio-fortnite",
+    "label": "Ohio Fortnite",
+    "icon": "img/21505.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/ohio-fortnite/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "om-bounce",
+    "label": "Om Bounce",
+    "icon": "img/21506.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/om-bounce/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "ovo",
+    "label": "Ovo",
+    "icon": "img/21507.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/ovo/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "ovo-2",
+    "label": "Ovo 2",
+    "icon": "img/21508.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/ovo-2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "ovo-dimensions",
+    "label": "Ovo Dimensions",
+    "icon": "img/21509.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/ovo-dimensions/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "pacman",
+    "label": "Pacman",
+    "icon": "img/21510.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/pacman/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "pandas-japan",
+    "label": "Pandas Japan",
+    "icon": "img/21511.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/pandas-japan/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "pandemic2",
+    "label": "Pandemic2",
+    "icon": "img/21512.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/pandemic2/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "papa-cherry-saga",
+    "label": "Papa Cherry Saga",
+    "icon": "img/21513.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/papa-cherry-saga/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "papas-bake",
+    "label": "Papas Bake",
+    "icon": "img/21514.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-bake/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "papas-cheese",
+    "label": "Papas Cheese",
+    "icon": "img/21515.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-cheese/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "papas-cupcake",
+    "label": "Papas Cupcake",
+    "icon": "img/21516.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-cupcake/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "papas-donut",
+    "label": "Papas Donut",
+    "icon": "img/21517.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-donut/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "papas-freeze",
+    "label": "Papas Freeze",
+    "icon": "img/21518.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-freeze/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "papas-hotdog",
+    "label": "Papas Hotdog",
+    "icon": "img/21519.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-hotdog/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "papas-pancake",
+    "label": "Papas Pancake",
+    "icon": "img/21520.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-pancake/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "papas-pasta",
+    "label": "Papas Pasta",
+    "icon": "img/21521.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-pasta/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "papas-scoop",
+    "label": "Papas Scoop",
+    "icon": "img/21522.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-scoop/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "papas-sushi",
+    "label": "Papas Sushi",
+    "icon": "img/21523.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-sushi/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "papas-taco",
+    "label": "Papas Taco",
+    "icon": "img/21524.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-taco/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "papas-wing",
+    "label": "Papas Wing",
+    "icon": "img/21525.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/papas-wing/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "papasburgeria",
+    "label": "Papasburgeria",
+    "icon": "img/21526.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/papasburgeria/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "papaspizzaria",
+    "label": "Papaspizzaria",
+    "icon": "img/21527.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/papaspizzaria/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "paper-3",
+    "label": "Paper 3",
+    "icon": "img/21528.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/paper-3/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "paper-minecraft",
+    "label": "Paper Minecraft",
+    "icon": "img/21529.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/paper-minecraft/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "paperio2",
+    "label": "Paperio2",
+    "icon": "img/21530.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/paperio2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "papery-planes",
+    "label": "Papery Planes",
+    "icon": "img/21531.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/papery-planes/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "park-out",
+    "label": "Park Out",
+    "icon": "img/21532.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/park-out/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "parking-fury",
+    "label": "Parking Fury",
+    "icon": "img/21533.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/parking-fury/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "parking-fury-2",
+    "label": "Parking Fury 2",
+    "icon": "img/21534.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/parking-fury-2/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "parking-fury-3",
+    "label": "Parking Fury 3",
+    "icon": "img/21535.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/parking-fury-3/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "particle-clicker",
+    "label": "Particle Clicker",
+    "icon": "img/21536.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/particle-clicker/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "pcraft",
+    "label": "Pcraft",
+    "icon": "img/21537.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/pcraft/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "penalty-kick",
+    "label": "Penalty Kick",
+    "icon": "img/21538.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/penalty-kick/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "penalty-shooter-2",
+    "label": "Penalty Shooter 2",
+    "icon": "img/21539.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/penalty-shooter-2/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "penalty-shooters-3",
+    "label": "Penalty Shooters 3",
+    "icon": "img/21540.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/penalty-shooters-3/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "pixel-gun-survival",
+    "label": "Pixel Gun Survival",
+    "icon": "img/21541.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/pixel-gun-survival/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "pixel-smash-duels",
+    "label": "Pixel Smash Duels",
+    "icon": "img/21542.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/pixel-smash-duels/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "pizza-tower",
+    "label": "Pizza Tower",
+    "icon": "img/21543.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/pizza-tower/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "plants-vs-zombies",
+    "label": "Plants Vs Zombies",
+    "icon": "img/21544.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/plants-vs-zombies/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "pokemon-emerald",
+    "label": "Pokemon Emerald",
+    "icon": "img/21545.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/pokemon-emerald/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "pokemon-emerald-2",
+    "label": "Pokemon Emerald 2",
+    "icon": "img/21546.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/pokemon-emerald-2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "pokemon-firered",
+    "label": "Pokemon Firered",
+    "icon": "img/21547.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/pokemon-firered/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "polybranch",
+    "label": "Polybranch",
+    "icon": "img/21548.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/polybranch/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "portalflash",
+    "label": "Portalflash",
+    "icon": "img/21549.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/portalflash/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "pou",
+    "label": "Pou",
+    "icon": "img/21550.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/pou/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "protektor",
+    "label": "Protektor",
+    "icon": "img/21551.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/protektor/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "pudding-monster",
+    "label": "Pudding Monster",
+    "icon": "img/21552.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/pudding-monster/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "push-the-square",
+    "label": "Push The Square",
+    "icon": "img/21553.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/push-the-square/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "push-your-luck",
+    "label": "Push Your Luck",
+    "icon": "img/21554.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/push-your-luck/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "rabbit-samurai",
+    "label": "Rabbit Samurai",
+    "icon": "img/21555.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/rabbit-samurai/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "rabbit-samurai2",
+    "label": "Rabbit Samurai2",
+    "icon": "img/21556.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/rabbit-samurai2/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "racing-monster-truck",
+    "label": "Racing Monster Truck",
+    "icon": "img/21557.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/racing-monster-truck/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "retro-bowl",
+    "label": "Retro Bowl",
+    "icon": "img/21558.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/retro-bowl/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "retro-bowl-college",
+    "label": "Retro Bowl College",
+    "icon": "img/21559.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/retro-bowl-college/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "riddleschool",
+    "label": "Riddleschool",
+    "icon": "img/21560.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/riddleschool/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "riddleschool2",
+    "label": "Riddleschool2",
+    "icon": "img/21561.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/riddleschool2/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "riddleschool3",
+    "label": "Riddleschool3",
+    "icon": "img/21562.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/riddleschool3/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "riddleschool4",
+    "label": "Riddleschool4",
+    "icon": "img/21563.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/riddleschool4/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "riddleschool5",
+    "label": "Riddleschool5",
+    "icon": "img/21564.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/riddleschool5/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "riddletransfer",
+    "label": "Riddletransfer",
+    "icon": "img/21565.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/riddletransfer/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "riddletransfer2",
+    "label": "Riddletransfer2",
+    "icon": "img/21566.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/riddletransfer2/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "rise-higher",
+    "label": "Rise Higher",
+    "icon": "img/21567.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/rise-higher/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "rolling-forests",
+    "label": "Rolling Forests",
+    "icon": "img/21568.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/rolling-forests/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "rolly-vortex",
+    "label": "Rolly Vortex",
+    "icon": "img/21569.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/rolly-vortex/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "rooftop-snipers",
+    "label": "Rooftop Snipers",
+    "icon": "img/21570.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/rooftop-snipers/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "roper",
+    "label": "Roper",
+    "icon": "img/21571.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/roper/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "run-2",
+    "label": "Run 2",
+    "icon": "img/21572.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/run-2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "run-3-space",
+    "label": "Run 3 Space",
+    "icon": "img/21573.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/run-3-space/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "rusher-crusher",
+    "label": "Rusher Crusher",
+    "icon": "img/21574.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/rusher-crusher/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "sandboxels",
+    "label": "Sandboxels",
+    "icon": "img/21575.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/sandboxels/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "santy-is-home",
+    "label": "Santy Is Home",
+    "icon": "img/21576.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/santy-is-home/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "save-the-dodge",
+    "label": "Save The Dodge",
+    "icon": "img/21577.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/save-the-dodge/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "scrapmetal",
+    "label": "Scrapmetal",
+    "icon": "img/21578.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/scrapmetal/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "shuttledeck",
+    "label": "Shuttledeck",
+    "icon": "img/21579.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/shuttledeck/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "skibidi-strike",
+    "label": "Skibidi Strike",
+    "icon": "img/21580.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/skibidi-strike/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "sky-car-stunt",
+    "label": "Sky Car Stunt",
+    "icon": "img/21581.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/sky-car-stunt/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "skywire",
+    "label": "Skywire",
+    "icon": "img/21582.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/skywire/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "slime-rush-td",
+    "label": "Slime Rush Td",
+    "icon": "img/21583.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/slime-rush-td/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "sling-tomb",
+    "label": "Sling Tomb",
+    "icon": "img/21584.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/sling-tomb/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "slope",
+    "label": "Slope",
+    "icon": "img/21585.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/slope/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "slope-2",
+    "label": "Slope 2",
+    "icon": "img/21586.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/slope-2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "slope-ball",
+    "label": "Slope Ball",
+    "icon": "img/21587.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/slope-ball/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "sm64",
+    "label": "Sm64",
+    "icon": "img/21588.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/sm64/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "smokingbarrels",
+    "label": "Smokingbarrels",
+    "icon": "img/21589.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/smokingbarrels/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "snail-bob-7",
+    "label": "Snail Bob 7",
+    "icon": "img/21590.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/snail-bob-7/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "snail-bob-8",
+    "label": "Snail Bob 8",
+    "icon": "img/21591.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/snail-bob-8/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "snow-ride",
+    "label": "Snow Ride",
+    "icon": "img/21592.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/snow-ride/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "snowbattle",
+    "label": "Snowbattle",
+    "icon": "img/21593.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/snowbattle/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "soccer-heads",
+    "label": "Soccer Heads",
+    "icon": "img/21594.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/soccer-heads/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "soccer-random",
+    "label": "Soccer Random",
+    "icon": "img/21595.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/soccer-random/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "soccer-skills",
+    "label": "Soccer Skills",
+    "icon": "img/21596.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/soccer-skills/",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "slug": "soldier-legend",
+    "label": "Soldier Legend",
+    "icon": "img/21597.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/soldier-legend/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "solitaire",
+    "label": "Solitaire",
+    "icon": "img/21598.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/solitaire/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "sort-the-court",
+    "label": "Sort The Court",
+    "icon": "img/21599.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/sort-the-court/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "space-bar-clicker",
+    "label": "Space Bar Clicker",
+    "icon": "img/21600.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/space-bar-clicker/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "space-company",
+    "label": "Space Company",
+    "icon": "img/21601.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/space-company/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "spacegarden",
+    "label": "Spacegarden",
+    "icon": "img/21602.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/spacegarden/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "spider-solitaire",
+    "label": "Spider Solitaire",
+    "icon": "img/21603.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/spider-solitaire/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "stack",
+    "label": "Stack",
+    "icon": "img/21604.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/stack/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "stack-bump-3d",
+    "label": "Stack Bump 3d",
+    "icon": "img/21605.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/stack-bump-3d/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "station-141",
+    "label": "Station 141",
+    "icon": "img/21606.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/station-141/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "stealingthediamond",
+    "label": "Stealingthediamond",
+    "icon": "img/21607.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/stealingthediamond/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "stick-archers",
+    "label": "Stick Archers",
+    "icon": "img/21608.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/stick-archers/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "stick-duel-battle",
+    "label": "Stick Duel Battle",
+    "icon": "img/21609.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/stick-duel-battle/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "stick-merge",
+    "label": "Stick Merge",
+    "icon": "img/21610.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/stick-merge/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "stickman-boost",
+    "label": "Stickman Boost",
+    "icon": "img/21611.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/stickman-boost/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "stickman-golf",
+    "label": "Stickman Golf",
+    "icon": "img/21612.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/stickman-golf/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "stickman-hook",
+    "label": "Stickman Hook",
+    "icon": "img/21613.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/stickman-hook/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "stormthehouse2",
+    "label": "Stormthehouse2",
+    "icon": "img/21614.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/stormthehouse2/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "subway-surfers",
+    "label": "Subway Surfers",
+    "icon": "img/21615.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/subway-surfers/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "subway-surfers-ny",
+    "label": "Subway Surfers Ny",
+    "icon": "img/21616.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/subway-surfers-ny/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "super-liquid-soccer",
+    "label": "Super Liquid Soccer",
+    "icon": "img/21617.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/super-liquid-soccer/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "super-mario-wonder",
+    "label": "Super Mario Wonder",
+    "icon": "img/21618.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/super-mario-wonder/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "superhot",
+    "label": "Superhot",
+    "icon": "img/21619.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/superhot/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "supermarioconstruct",
+    "label": "Supermarioconstruct",
+    "icon": "img/21620.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/supermarioconstruct/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "swingo",
+    "label": "Swingo",
+    "icon": "img/21621.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/swingo/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "synesthesia",
+    "label": "Synesthesia",
+    "icon": "img/21622.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/synesthesia/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "tactical-weapon-pack-2",
+    "label": "Tactical Weapon Pack 2",
+    "icon": "img/21623.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/tactical-weapon-pack-2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "tacticalassasin2",
+    "label": "Tacticalassasin2",
+    "icon": "img/21624.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/tacticalassasin2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "tag",
+    "label": "Tag",
+    "icon": "img/21625.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/tag/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "tank-trouble-2",
+    "label": "Tank Trouble 2",
+    "icon": "img/21626.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/tank-trouble-2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "tanuki-sunset",
+    "label": "Tanuki Sunset",
+    "icon": "img/21627.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/tanuki-sunset/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "tap-tap-shots",
+    "label": "Tap Tap Shots",
+    "icon": "img/21628.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/tap-tap-shots/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "temple-run-2",
+    "label": "Temple Run 2",
+    "icon": "img/21629.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/temple-run-2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "terraira",
+    "label": "Terraira",
+    "icon": "img/21630.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/terraira/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "territorial",
+    "label": "Territorial",
+    "icon": "img/21631.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/territorial/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "the-final-earth",
+    "label": "The Final Earth",
+    "icon": "img/21632.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/the-final-earth/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "the-hotel",
+    "label": "The Hotel",
+    "icon": "img/21633.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/the-hotel/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "thebattle",
+    "label": "Thebattle",
+    "icon": "img/21634.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/thebattle/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "theheist",
+    "label": "Theheist",
+    "icon": "img/21635.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/theheist/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "there-is-no-game",
+    "label": "There Is No Game",
+    "icon": "img/21636.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/there-is-no-game/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "thisistheonlylevel",
+    "label": "Thisistheonlylevel",
+    "icon": "img/21637.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/thisistheonlylevel/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "tiny-fishing",
+    "label": "Tiny Fishing",
+    "icon": "img/21638.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/tiny-fishing/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "tiny-islands",
+    "label": "Tiny Islands",
+    "icon": "img/21639.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/tiny-islands/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "tosstheturtle",
+    "label": "Tosstheturtle",
+    "icon": "img/21640.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/tosstheturtle/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "tower-crash-3d",
+    "label": "Tower Crash 3d",
+    "icon": "img/21641.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/tower-crash-3d/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "townscaper",
+    "label": "Townscaper",
+    "icon": "img/21642.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/townscaper/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "traffic-control",
+    "label": "Traffic Control",
+    "icon": "img/21643.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/traffic-control/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "trimps",
+    "label": "Trimps",
+    "icon": "img/21644.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/trimps/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "tube-jumpers",
+    "label": "Tube Jumpers",
+    "icon": "img/21645.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/tube-jumpers/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "tunnel-rush",
+    "label": "Tunnel Rush",
+    "icon": "img/21646.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/tunnel-rush/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "tunnel-rush-2",
+    "label": "Tunnel Rush 2",
+    "icon": "img/21647.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/tunnel-rush-2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "turn-turn",
+    "label": "Turn Turn",
+    "icon": "img/21648.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/turn-turn/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "twitch-tetris",
+    "label": "Twitch Tetris",
+    "icon": "img/21649.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/twitch-tetris/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "veloce",
+    "label": "Veloce",
+    "icon": "img/21650.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/veloce/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "vex3",
+    "label": "Vex3",
+    "icon": "img/21651.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/vex3/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "vex4",
+    "label": "Vex4",
+    "icon": "img/21652.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/vex4/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "vex5",
+    "label": "Vex5",
+    "icon": "img/21653.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/vex5/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "vex6",
+    "label": "Vex6",
+    "icon": "img/21654.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/vex6/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "vex7",
+    "label": "Vex7",
+    "icon": "img/21655.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/vex7/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "vex8",
+    "label": "Vex8",
+    "icon": "img/21656.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/vex8/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "volley-random",
+    "label": "Volley Random",
+    "icon": "img/21657.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/volley-random/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "wallsmash",
+    "label": "Wallsmash",
+    "icon": "img/21658.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/wallsmash/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "waterworks",
+    "label": "Waterworks",
+    "icon": "img/21659.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/waterworks/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "wbwwb",
+    "label": "Wbwwb",
+    "icon": "img/21660.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/wbwwb/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "weavesilk",
+    "label": "Weavesilk",
+    "icon": "img/21661.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/weavesilk/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "webgl-fluid-simulation",
+    "label": "Webgl Fluid Simulation",
+    "icon": "img/21662.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/webgl-fluid-simulation/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "whack-your-boss",
+    "label": "Whack Your Boss",
+    "icon": "img/21663.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/whack-your-boss/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "wheelie-bike",
+    "label": "Wheelie Bike",
+    "icon": "img/21664.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/wheelie-bike/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "wheelie-bike-2",
+    "label": "Wheelie Bike 2",
+    "icon": "img/21665.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/wheelie-bike-2/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "wheely-2",
+    "label": "Wheely 2",
+    "icon": "img/21666.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/wheely-2/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "wheely-3",
+    "label": "Wheely 3",
+    "icon": "img/21667.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/wheely-3/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "wheely-4",
+    "label": "Wheely 4",
+    "icon": "img/21668.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/wheely-4/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "wheely-5",
+    "label": "Wheely 5",
+    "icon": "img/21669.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/wheely-5/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "wheely-6",
+    "label": "Wheely 6",
+    "icon": "img/21670.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/wheely-6/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "wheely-7",
+    "label": "Wheely 7",
+    "icon": "img/21671.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/wheely-7/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "wheely-8",
+    "label": "Wheely 8",
+    "icon": "img/21672.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/wheely-8/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "wolf3d",
+    "label": "Wolf3d",
+    "icon": "img/21673.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/wolf3d/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "wood-block-puzzle",
+    "label": "Wood Block Puzzle",
+    "icon": "img/21674.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/wood-block-puzzle/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "woodventure",
+    "label": "Woodventure",
+    "icon": "img/21675.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/woodventure/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "word-slide",
+    "label": "Word Slide",
+    "icon": "img/21676.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/word-slide/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "wordle",
+    "label": "Wordle",
+    "icon": "img/21677.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/wordle/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "wordle-unlimited",
+    "label": "Wordle Unlimited",
+    "icon": "img/21678.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/wordle-unlimited/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "worlds-hardest-game",
+    "label": "Worlds Hardest Game",
+    "icon": "img/21679.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/worlds-hardest-game/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "worlds-hardest-game-2",
+    "label": "Worlds Hardest Game 2",
+    "icon": "img/21680.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/action-games/worlds-hardest-game-2/",
+    "categories": [
+      "A.c.t.io.n"
+    ]
+  },
+  {
+    "slug": "x-trial-racing",
+    "label": "X Trial Racing",
+    "icon": "img/21681.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/driving-games/x-trial-racing/",
+    "categories": [
+      "D.r.i.v.i.n.g"
+    ]
+  },
+  {
+    "slug": "xx142-b2exe",
+    "label": "Xx142 B2exe",
+    "icon": "img/21682.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/xx142-b2exe/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  },
+  {
+    "slug": "yoshifabrication",
+    "label": "Yoshifabrication",
+    "icon": "img/21683.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/casual-games/yoshifabrication/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "yohoho",
+    "label": "Yohoho.io",
+    "icon": "img/2000.webp",
+    "src": "https://classnotes.online/classroom/lesson-2/",
+    "categories": [
+      "Casual"
+    ]
+  },
+  {
+    "slug": "you-are-bezos",
+    "label": "You Are Bezos",
+    "icon": "img/21684.webp",
+    "src": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/you-are-bezos/",
+    "categories": [
+      "S.t.ra.te.g.y"
+    ]
+  }
+];
